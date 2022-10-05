@@ -1,0 +1,12 @@
+/*desktop 1*/
+@media screen and (min-width:1151px) and (max-width:1400px){}
+/*desktop 2*/
+@media screen and (min-width:992px) and (max-width:1150px){}
+/*tablet*/
+@media screen and (max-width:991px){}
+/*smartphone 1*/
+@media screen  and (min-width:400px) and (max-width:770px){}
+/*smartphone 2*/
+@media screen and (min-width:300px) and (max-width:399px){}
+/*smartphone 3*/
+@media screen and (min-width:250px) and (max-width:300px){}

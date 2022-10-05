@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="../fronted/css/style.css">
+        <script src="../fronted/javaScript/app.js"></script>
+    </head>
+    <body>
+        <div class="pagina-nav-index">
+            <h1 class="titulo-nombre-tienda">Compu-Tecno</h1>
+            <img class="icono-empresa" src="iconos/carrefour.png">
+        </div>
+        <div class="sub-menu-index">
+            <a class="titulo-index-como-comprar" href="como-comprar.html">Como comprar</a>
+            <a class="titulo-index-ubicacion"target="_blank" href="https://goo.gl/maps/Nq22e4w2ibvrkA517">Ubicacion</a>
+            <a class="titulo-index-Instagram"target="_blank" href="https://www.instagram.com/carrefourargentina/?hl=es">Instagram</a>
+            <a class="titulo-index-Facebook"target="_blank" href="https://www.facebook.com/CarrefourArgentina">Facebook</a>
+        </div>
+        <div class="dropdown-index">
+            <button  class="btn btn-secondary dropdown-toggle"  type="button" id="dropdownMenuButton2-index" data-bs-toggle="dropdown" aria-expanded="false">
+                Categorias
+            </button>
+            <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="dropdownMenuButton2-index">
+                <li><a class="dropdown-item-index active" href="index.html">Inicio</a></li>
+                <li><a class="dropdown-item-index " href="">Televisores</a></li>
+                    <ul class="dropdown-item-index"><a href="smart-tv.html">Smart</a></ul>
+                    <ul class="dropdown-item-index"><a href="4k.html">4K</a></ul>
+                <li><a class="dropdown-item-index" href="monitores.html">Monitores</a></li>
+                <li><a class="dropdown-item-index"href="#">Celulares y tablets</a></li>
+                    <ul class="dropdown-item-index"><a href="samsung.html">SAMSUNG</a></ul>
+                    <ul class="dropdown-item-index"><a href="celulares-lg.html">lg</a></ul>
+                    <ul class="dropdown-item-index"><a href="celulares-xiaomi.html">Xiaomi</a></ul>
+                <li><a class="dropdown-item-index"href="parlante-bluetooth.html">Parlantes bluetooth</a></li>
+                <li><a class="dropdown-item-index"href="lavarrropas.html">Lavarropas</a></li>
+                <li><a class="dropdown-item-index" href="climatizacion.html">Climatizacion</a></li>
+                <li><a class="dropdown-item-index"href="#">gaming</a></li>
+                    <ul class="dropdown-item-index"><a href="#">Mouses</a></ul>
+                    <ul class="dropdown-item-index"><a href="#">Teclados</a></ul>
+                    <ul class="dropdown-item-index"><a href="#">Memorias</a></ul>
+                <li><a class="dropdown-item-index"href="#">Audio</a></li>
+                <li><a class="dropdown-item-index"href="#">Pequeños Electrodomesticos</a></li>
+            </ul>
+        </div>  
+        <main>
+            <!-- Carruse con informaciones-descuentos-tarjetas etc-->
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="fotos/carrusel-promociones/foto-carrusel-1.jfif" class="d-block w-100" alt="promociones">
+                    </div>
+                <div class="carousel-item">
+                    <img src="fotos/carrusel-promociones/foto-carrusel-2.jfif" class="d-block w-100" alt="promociones">
+                </div>
+                    <div class="carousel-item">
+                        <img src="fotos/carrusel-promociones/foto-carrusel-3.jfif" class="d-block w-100" alt="promociones">
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+            <!-- Carruse con fotos del establecimiento o de productos destacados    -->
+            <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                </div>
+                <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="fotos/carrusel-establecimiento/carrefour-1.jpg" class="d-block  w-100" alt="carrefour">
+                </div>
+                <div class="carousel-item">
+                    <img src="fotos/carrusel-establecimiento/carrefour-2.jpg"class="d-block  w-100" alt="carrefour">
+                </div>
+                <div class="carousel-item">
+                    <img src="fotos/carrusel-establecimiento/carrefour-3.jpg"class="d-block  w-100" alt="carrefour">
+                </div>
+                <div class="carousel-item">
+                    <img src="fotos/carrusel-establecimiento/carrefour-4.jpg"class="d-block  w-100" alt="carrefour">
+                </div>
+                <div class="carousel-item">
+                    <img src="fotos/carrusel-establecimiento/carrefour-5.jpg"class="d-block  w-100" alt="carrefour">
+                </div>
+                </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+            </div>
+            <div class="button-checkout-index">
+                <button id="checkout"class="button-checkout"onclick="pay()">Carrito</button>
+            </div>
+            <div class="pagina-contenedor-index">
+                <h1 class="ofertas-index-productos">Ofertas semanales</h1>
+                <div class="producto-container-index">
+                    <h2>Smart TV Philips 50" 4K Android gris
+                    </h2>
+                    <img class="oferta-foto-producto-1" src="fotos/televisores/4k/producto-1.jpg">
+                    <h3 class="oferta-foto-producto-1-precio">Precio:$120.000</h3>
+                    <H2 class="oferta-foto-producto-1-precio-oferta">Ahora:$100.000 (efectivo)</H2>
+                    <button class="button-add-index" onclick="add('product-1',100000)">Agregar al carrito</button>
+                    <img class="icono-carrito" style="position:relative;top:0px;left:150px;width:25px;
+                    height:25px;" src="iconos/icono-carrito-compra.png">                  
+                    <a class="descripcion-producto-1-ofertas-inicio" href="pdf/Smart tv Philips 50.pdf">descripcion</a>
+                </div>
+            </div>
+            <div class="pagina-contenedor-index-2">
+                <div class="producto-container-index-2">
+                    <h2>Monitor led 32"4K
+                    </h2>
+                    <img class="oferta-foto-producto-2" src="fotos/monitores/producto-1.png">
+                    <h3 class="oferta-foto-producto-2-precio" >Precio:$29.580</h3>
+                    <H2 class="oferta-foto-producto-2-precio-oferta">Ahora:$26.560 (efectivo)</H2>
+                    <button class="button-add-index" onclick="add('product-1',26560)">Agregar al carrito</button>
+                    <img class="icono-carrito-" style="position:relative;top:0px;left:150px;width:25px;
+                    height:25px;" src="iconos/icono-carrito-compra.png">
+                    <a class="descripcion-producto-2-ofertas-inicio" href="pdf/Smart tv Philips 50.pdf"target="_black">descripcion</a>
+                </div>
+            </div>
+            <div class="pagina-contenedor-index-3">
+                <div class="producto-container-index-3">
+                    <h2>Smart TV Philips 50" Android gris
+                    </h2>
+                    <img class="oferta-foto-producto-3" src="fotos/televisores/smart-tv/producto-1.png">
+                    <h3 class="oferta-foto-producto-3-precio">Precio:$65.999</h3>
+                    <H2 class="oferta-foto-producto-3-precio-oferta">25% descuento tarjeta credito visa</H2>
+                    <button class="button-add-index" onclick="add('product-1',65999)">Agregar al carrito</button>
+                    <img class="icono-carrito-3" style="position:relative;top:0px;left:150px;width:25px;
+                    height:25px;" src="iconos/icono-carrito-compra.png">
+                    <a class="descripcion-producto-3-ofertas-inicio" href="pdf/Smart tv Philips 50.pdf"target="_black">descripcion</a>
+                </div>
+            </div>
+            <div class="pagina-contenedor-index-4">
+                <div class="producto-container-index-4">
+                    <h2 style="font-family:'SamsungOne';">Smart TV Samsung 65" Android
+                    </h2>
+                    <img class="oferta-foto-producto-4" src="fotos/monitores/producto-2.png">
+                    <h3 class="oferta-foto-producto-4-precio">Precio:$90.000</h3>
+                    <H2 class="oferta-foto-producto-4-precio-oferta">cuotas sin interes con galicia</H2>
+                    <button class="button-add-index" onclick="add('product-1',90000)">Agregar al carrito</button>
+                    <img class="icono-carrito-4" style="position:relative;top:0px;left:150px;width:25px;
+                    height:25px;" src="iconos/icono-carrito-compra.png">
+                    <a class="descripcion-producto-4-ofertas-inicio" href="pdf/Smart tv Philips 50.pdf"target="_black">descripcion</a>
+                </div>
+            </div>
+            <div class="pagina-contenedor-index-5">
+                <div class="producto-container-index-5">
+                    <h2>monitor UHD Philips 32"gris
+                    </h2>
+                    <img class="foto-producto-1" src="fotos/monitores/producto-3.png">
+                    <h3 class="oferta-foto-producto-5-precio">Precio:$52.233</h3>
+                    <H2 class="oferta-foto-producto-5-precio-oferta">ahora:$ 33.267</H2>
+                    <button class="button-add-index" onclick="add('product-1',33267)">Agregar al carrito</button>
+                    <img class="oferta-foto-producto-5" style="position:relative;top:0px;left:150px;width:25px;
+                    height:25px;" src="iconos/icono-carrito-compra.png">
+                    <a class="descripcion-producto-5-ofertas-inicio" href="pdf/Smart tv Philips 50.pdf"target="_black">descripcion</a>
+                </div>
+            </div>
+            <div class="pagina-contenedor-index-6">
+                <div class="producto-container-index-6">
+                    <h2 style="font-family:'SamsungOne';">TV SAMSUNG 72"4K Android               
+                    </h2>
+                    <img class="foto-producto-1" src="fotos/televisores/4k//producto-2.png">
+                    <h3 class="oferta-foto-producto-6-precio">Precio:$90.000</h3>
+                    <H2 class="oferta-foto-producto-6-precio-oferta">ahora:$75.000</H2>
+                    <button class="button-add-index" onclick="add('product-1',75000)">Agregar al carrito</button>
+                    <img class="icono-carrito-6" style="position:relative;top:-10px;left:150px;width:25px;
+                    height:25px;" src="iconos/icono-carrito-compra.png">
+                    <a class="descripcion-producto-6-ofertas-inicio" href="pdf/Smart tv Philips 50.pdf"target="_black">descripcion</a>
+                </div>
+            </div>
+        </main>
+        <footer class="footer-index">
+            <h2 class="titulo-footer-index">Conocenos</h2>
+            <a class="texto-1-footer-index"  href="sucursales.html">Sucursales</a>
+            <div class="v-line">
+            </div>
+            <a class="texto-2-footer-index"  href="nuestro-compromiso.html">Nuestro compromiso</a>
+            <div class="v-line-1">
+            </div>
+        </footer>
+    </body>
+</html>
