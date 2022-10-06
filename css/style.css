@@ -2471,28 +2471,28 @@ body{
     position: absolute;
     font-family: 'Poppins', sans-serif;
     color: white;
-    left:60px;
+    left:3%;
     margin-top:25px;
 }
 .titulo-parlante-bluetooth-ubicacion{
     position: absolute;
     font-family: 'Poppins', sans-serif;
     color: white;
-    left:600px;
+    left:30%;
     margin-top:25px;
 }
 .titulo-parlante-bluetooth-Facebook{
     position: absolute;
     font-family: 'Poppins', sans-serif;
     color: white;
-    left:1200px;
+    left:60%;
     margin-top:25px;
 }
 .titulo-parlante-bluetooth-Instagram{
     position: absolute;
     font-family: 'Poppins', sans-serif;
     color: white;
-    left:1750px;
+    left:92%;
     margin-top:25px;
 }
 .button-checkout-parlante-bluetooth {
@@ -2526,7 +2526,7 @@ body{
 .producto-container-parlante-bluetooth{
     position: relative;
     margin:15px;
-    left: 22px;
+    left:2%;
     width:25%;
     padding: 2px 16px;
     background-color: #b0b9ac;
@@ -2546,55 +2546,55 @@ body{
 .foto-producto-1-parlante-bluetooth{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-2-parlante-bluetooth{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-3-parlante-bluetooth{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-4-parlante-bluetooth{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-5-parlante-bluetooth{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-6-parlante-bluetooth{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-7-parlante-bluetooth{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-8-parlante-bluetooth{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-9-parlante-bluetooth{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .descripcion-producto-1-parlante-bluetooth{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right:2px;
-    top:240px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-1-parlante-bluetooth:hover{
@@ -2605,77 +2605,77 @@ body{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right:2px;
-    top:240px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-3-parlante-bluetooth{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right:2px;
-    top:240px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-4-parlante-bluetooth{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:250px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-5-parlante-bluetooth{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:250px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-6-parlante-bluetooth{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:250px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-7-parlante-bluetooth{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:250px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-8-parlante-bluetooth{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:250px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-9-parlante-bluetooth{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:250px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .footer-parlante-bluetooth{
     position:absolute;
-    top:1290px;
+    top:160%;
     width:100%;
     height:20%;
     background-color: rgb(36, 45, 95);
@@ -2697,14 +2697,14 @@ body{
     position: absolute;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: white;
-    left:500px;
+    left:30%;
     margin-top:60px;
 }
 .texto-2-footer-parlante-bluetooth{
     position: absolute;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: white;
-    left:1400px;
+    left:65%;
     margin-top:60px;
 }
 .v-line-parlante-bluetooth{
@@ -2756,28 +2756,28 @@ body{
     position: absolute;
     font-family: 'Poppins', sans-serif;
     color: white;
-    left:60px;
+    left:3%;
     margin-top:25px;
 }
 .titulo-lavarropa-ubicacion{
     position: absolute;
     font-family: 'Poppins', sans-serif;
     color: white;
-    left:600px;
+    left:30%;
     margin-top:25px;
 }
 .titulo-lavarropa-Facebook{
     position: absolute;
     font-family: 'Poppins', sans-serif;
     color: white;
-    left:1200px;
+    left:60%;
     margin-top:25px;
 }
 .titulo-lavarropa-Instagram{
     position: absolute;
     font-family: 'Poppins', sans-serif;
     color: white;
-    left:1750px;
+    left:90%;
     margin-top:25px;
 }
 .button-checkout-lavarropa {
@@ -2811,7 +2811,7 @@ body{
 .producto-container-lavarropa{
     position: relative;
     margin:15px;
-    left: 22px;
+    left:2%;
     width:25%;
     padding: 2px 16px;
     background-color: #b0b9ac;
@@ -2831,55 +2831,55 @@ body{
 .foto-producto-1-lavarropa{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-2-lavarropa{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-3-lavarropa{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-4-lavarropa{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-5-lavarropa{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-6-lavarropa{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-7-lavarropa{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-8-lavarropa{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-9-lavarropa{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .descripcion-producto-1-lavarropa{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right:2px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-1-lavarropa:hover{
@@ -2890,77 +2890,77 @@ body{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right:2px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-3-lavarropa{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right:2px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-4-lavarropa{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-5-lavarropa{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-6-lavarropa{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-7-lavarropa{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-8-lavarropa{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-9-lavarropa{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .footer-lavarropa{
     position:absolute;
-    top:1500px;
+    top:180%;
     width:100%;
     height:20%;
     background-color: rgb(36, 45, 95);
@@ -2982,14 +2982,14 @@ body{
     position: absolute;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: white;
-    left:500px;
+    left:30%;
     margin-top:60px;
 }
 .texto-2-footer-lavarropa{
     position: absolute;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: white;
-    left:1400px;
+    left:65%;
     margin-top:60px;
 }
 .v-line-lavarropa{
@@ -3041,28 +3041,28 @@ body{
     position: absolute;
     font-family: 'Poppins', sans-serif;
     color: white;
-    left:60px;
+    left:3%;
     margin-top:25px;
 }
 .titulo-climatizacion-ubicacion{
     position: absolute;
     font-family: 'Poppins', sans-serif;
     color: white;
-    left:600px;
+    left:30%;
     margin-top:25px;
 }
 .titulo-climatizacion-Facebook{
     position: absolute;
     font-family: 'Poppins', sans-serif;
     color: white;
-    left:1200px;
+    left:60%;
     margin-top:25px;
 }
 .titulo-climatizacion-Instagram{
     position: absolute;
     font-family: 'Poppins', sans-serif;
     color: white;
-    left:1750px;
+    left:92%;
     margin-top:25px;
 }
 .button-checkout-climatizacion {
@@ -3096,7 +3096,7 @@ body{
 .producto-container-climatizacion{
     position: relative;
     margin:15px;
-    left: 22px;
+    left:2%;
     width:25%;
     padding: 2px 16px;
     background-color: #b0b9ac;
@@ -3116,27 +3116,27 @@ body{
 .foto-producto-1-climatizacion{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-2-climatizacion{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-3-climatizacion{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-4-climatizacion{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-5-climatizacion{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-6-climatizacion{
     position:relative;
@@ -3146,25 +3146,25 @@ body{
 .foto-producto-7-climatizacion{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-8-climatizacion{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .foto-producto-9-climatizacion{
     position:relative;
     height:40%;
-    left:150px;
+    left:0%;
 }
 .descripcion-producto-1-climatizacion{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right:2px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-1-climatizacion:hover{
@@ -3175,77 +3175,77 @@ body{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right:2px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-3-climatizacion{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right:2px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-4-climatizacion{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-5-climatizacion{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-6-climatizacion{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-7-climatizacion{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-8-climatizacion{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .descripcion-producto-9-climatizacion{
     position: absolute;
     background-color: wheat;
     border-radius: 0px 8px 0px 8px;
-    width:30%;
-    right: 5px;
-    top:300px;
+    width:25%;
+    right:0%;
+    top:80%;
     font-size:1rem
 }
 .footer-climatizacion{
     position:absolute;
-    top:1500px;
+    top:180%;
     width:100%;
     height:20%;
     background-color: rgb(36, 45, 95);
@@ -3267,14 +3267,14 @@ body{
     position: absolute;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: white;
-    left:500px;
+    left:30%;
     margin-top:60px;
 }
 .texto-2-footer-climatizacion{
     position: absolute;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: white;
-    left:1400px;
+    left:65%;
     margin-top:60px;
 }
 .v-line-climatizacion{
