@@ -468,7 +468,7 @@ body{
 }
 .descripcion-producto-1-ofertas-inicio{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:35%;
     right:2%;
@@ -477,7 +477,7 @@ body{
 }
 .descripcion-producto-2-ofertas-inicio{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:35%;
     right:2%;
@@ -486,7 +486,7 @@ body{
 }
 .descripcion-producto-3-ofertas-inicio{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:35%;
     right:2%;
@@ -495,7 +495,7 @@ body{
 }
 .descripcion-producto-4-ofertas-inicio{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:35%;
     right:2%;
@@ -504,7 +504,7 @@ body{
 }
 .descripcion-producto-5-ofertas-inicio{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:35%;
     right:2%;
@@ -513,7 +513,7 @@ body{
 }
 .descripcion-producto-6-ofertas-inicio{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:35%;
     right:2%;
@@ -926,20 +926,16 @@ body{
 }
 .descripcion-producto-1-smart-tv{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:2%;
     top:89%;
     font-size:1rem
 }
-.descripcion-producto-1-smart-tv:hover{
-    background-color: blueviolet;
-    color: rgb(236, 218, 186);
-}
 .descripcion-producto-2-smart-tv{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:2%;
@@ -948,7 +944,7 @@ body{
 }
 .descripcion-producto-3-smart-tv{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:30%;
     right: 5px;
@@ -957,7 +953,7 @@ body{
 }
 .descripcion-producto-4-smart-tv{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:2%;
@@ -966,7 +962,7 @@ body{
 }
 .descripcion-producto-5-smart-tv{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:2%;
@@ -975,7 +971,7 @@ body{
 }
 .descripcion-producto-6-smart-tv{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:2%;
@@ -984,7 +980,7 @@ body{
 }
 .descripcion-producto-7-smart-tv{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:2%;
@@ -993,7 +989,7 @@ body{
 }
 .descripcion-producto-8-smart-tv{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:2%;
@@ -1002,7 +998,7 @@ body{
 }
 .descripcion-producto-9-smart-tv{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:2%;
@@ -1149,20 +1145,16 @@ body{
 }
 .descripcion-producto-1-4k{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:27%;
     right:2%;
     top:80%;
     font-size:1rem
 }
-.descripcion-producto-1-4k:hover{
-    background-color: blueviolet;
-    color: rgb(236, 218, 186);
-}
 .descripcion-producto-2-4k{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:27%;
     right:2%;
@@ -1171,7 +1163,7 @@ body{
 }
 .descripcion-producto-3-4k{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:27%;
     right:2%;
@@ -1180,7 +1172,7 @@ body{
 }
 .descripcion-producto-4-4k{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:27%;
     right:2%;
@@ -1189,7 +1181,7 @@ body{
 }
 .descripcion-producto-5-4k{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:27%;
     right:2%;
@@ -1198,7 +1190,7 @@ body{
 }
 .descripcion-producto-6-4k{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:27%;
     right:2%;
@@ -1207,7 +1199,7 @@ body{
 }
 .descripcion-producto-7-4k{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:27%;
     right:2%;
@@ -1216,7 +1208,7 @@ body{
 }
 .descripcion-producto-8-4k{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:27%;
     right:2%;
@@ -1225,7 +1217,7 @@ body{
 }
 .descripcion-producto-9-4k{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:27%;
     right:2%;
@@ -1453,20 +1445,16 @@ body{
 }
 .descripcion-producto-1-monitores{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:2%;
     top:80%;
     font-size:1rem
 }
-.descripcion-producto-1-monitores:hover{
-    background-color: blueviolet;
-    color: rgb(236, 218, 186);
-}
 .descripcion-producto-2-monitores{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:2%;
@@ -1475,7 +1463,7 @@ body{
 }
 .descripcion-producto-3-monitores{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:2%;
@@ -1484,7 +1472,7 @@ body{
 }
 .descripcion-producto-4-monitores{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:2%;
@@ -1493,7 +1481,7 @@ body{
 }
 .descripcion-producto-5-monitores{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:2%;
@@ -1502,7 +1490,7 @@ body{
 }
 .descripcion-producto-6-monitores{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:2%;
@@ -1511,7 +1499,7 @@ body{
 }
 .descripcion-producto-7-monitores{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:2%;
@@ -1520,7 +1508,7 @@ body{
 }
 .descripcion-producto-8-monitores{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:2%;
@@ -1529,7 +1517,7 @@ body{
 }
 .descripcion-producto-9-monitores{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:2%;
@@ -1739,7 +1727,7 @@ body{
 }
 .descripcion-producto-1-samsung{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:29%;
     right:0%;
@@ -1748,7 +1736,7 @@ body{
 }
 .descripcion-producto-2-samsung{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:29%;
     right:0%;
@@ -1757,7 +1745,7 @@ body{
 }
 .descripcion-producto-3-samsung{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:29%;
     right:0%;
@@ -1766,7 +1754,7 @@ body{
 }
 .descripcion-producto-4-samsung{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:29%;
     right:0%;
@@ -1775,7 +1763,7 @@ body{
 }
 .descripcion-producto-5-samsung{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:29%;
     right:0%;
@@ -1784,7 +1772,7 @@ body{
 }
 .descripcion-producto-6-samsung{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:29%;
     right:0%;
@@ -1793,7 +1781,7 @@ body{
 }
 .descripcion-producto-7-samsung{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:29%;
     right:0%;
@@ -1802,7 +1790,7 @@ body{
 }
 .descripcion-producto-8-samsung{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:29%;
     right:0%;
@@ -1811,7 +1799,7 @@ body{
 }
 .descripcion-producto-9-samsung{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:29%;
     right:0%;
@@ -2020,20 +2008,16 @@ body{
 }
 .descripcion-producto-1-celular-lg{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
     top:80%;
     font-size:1rem
 }
-.descripcion-producto-1-celular-lg:hover{
-    background-color: blueviolet;
-    color: rgb(236, 218, 186);
-}
 .descripcion-producto-2-celular-lg{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2042,7 +2026,7 @@ body{
 }
 .descripcion-producto-3-celular-lg{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2051,7 +2035,7 @@ body{
 }
 .descripcion-producto-4-celular-lg{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2060,7 +2044,7 @@ body{
 }
 .descripcion-producto-5-celular-lg{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2069,7 +2053,7 @@ body{
 }
 .descripcion-producto-6-celular-lg{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2078,7 +2062,7 @@ body{
 }
 .descripcion-producto-7-celular-lg{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2087,7 +2071,7 @@ body{
 }
 .descripcion-producto-8-celular-lg{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2096,7 +2080,7 @@ body{
 }
 .descripcion-producto-9-celular-lg{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2305,20 +2289,16 @@ body{
 }
 .descripcion-producto-1-celular-xiaomi{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
     top:80%;
     font-size:1rem
 }
-.descripcion-producto-1-celular-xiaomi:hover{
-    background-color: blueviolet;
-    color: rgb(236, 218, 186);
-}
 .descripcion-producto-2-celular-xiaomi{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2327,7 +2307,7 @@ body{
 }
 .descripcion-producto-3-celular-xiaomi{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2336,7 +2316,7 @@ body{
 }
 .descripcion-producto-4-celular-xiaomi{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2345,7 +2325,7 @@ body{
 }
 .descripcion-producto-5-celular-xiaomi{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2354,7 +2334,7 @@ body{
 }
 .descripcion-producto-6-celular-xiaomi{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2363,7 +2343,7 @@ body{
 }
 .descripcion-producto-7-celular-xiaomi{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2372,7 +2352,7 @@ body{
 }
 .descripcion-producto-8-celular-xiaomi{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2381,7 +2361,7 @@ body{
 }
 .descripcion-producto-9-celular-xiaomi{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2590,20 +2570,16 @@ body{
 }
 .descripcion-producto-1-parlante-bluetooth{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
     top:80%;
     font-size:1rem
 }
-.descripcion-producto-1-parlante-bluetooth:hover{
-    background-color: blueviolet;
-    color: rgb(236, 218, 186);
-}
 .descripcion-producto-2-parlante-bluetooth{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2612,7 +2588,7 @@ body{
 }
 .descripcion-producto-3-parlante-bluetooth{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2621,7 +2597,7 @@ body{
 }
 .descripcion-producto-4-parlante-bluetooth{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2630,7 +2606,7 @@ body{
 }
 .descripcion-producto-5-parlante-bluetooth{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2639,7 +2615,7 @@ body{
 }
 .descripcion-producto-6-parlante-bluetooth{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2648,7 +2624,7 @@ body{
 }
 .descripcion-producto-7-parlante-bluetooth{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2657,7 +2633,7 @@ body{
 }
 .descripcion-producto-8-parlante-bluetooth{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2666,7 +2642,7 @@ body{
 }
 .descripcion-producto-9-parlante-bluetooth{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2875,20 +2851,16 @@ body{
 }
 .descripcion-producto-1-lavarropa{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
     top:80%;
     font-size:1rem
 }
-.descripcion-producto-1-lavarropa:hover{
-    background-color: blueviolet;
-    color: rgb(236, 218, 186);
-}
 .descripcion-producto-2-lavarropa{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2897,7 +2869,7 @@ body{
 }
 .descripcion-producto-3-lavarropa{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2906,7 +2878,7 @@ body{
 }
 .descripcion-producto-4-lavarropa{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2915,7 +2887,7 @@ body{
 }
 .descripcion-producto-5-lavarropa{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2924,7 +2896,7 @@ body{
 }
 .descripcion-producto-6-lavarropa{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2933,7 +2905,7 @@ body{
 }
 .descripcion-producto-7-lavarropa{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2942,7 +2914,7 @@ body{
 }
 .descripcion-producto-8-lavarropa{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -2951,7 +2923,7 @@ body{
 }
 .descripcion-producto-9-lavarropa{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -3160,20 +3132,16 @@ body{
 }
 .descripcion-producto-1-climatizacion{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
     top:80%;
     font-size:1rem
 }
-.descripcion-producto-1-climatizacion:hover{
-    background-color: blueviolet;
-    color: rgb(236, 218, 186);
-}
 .descripcion-producto-2-climatizacion{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -3182,7 +3150,7 @@ body{
 }
 .descripcion-producto-3-climatizacion{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -3191,7 +3159,7 @@ body{
 }
 .descripcion-producto-4-climatizacion{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -3200,7 +3168,7 @@ body{
 }
 .descripcion-producto-5-climatizacion{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -3209,7 +3177,7 @@ body{
 }
 .descripcion-producto-6-climatizacion{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -3218,7 +3186,7 @@ body{
 }
 .descripcion-producto-7-climatizacion{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -3227,7 +3195,7 @@ body{
 }
 .descripcion-producto-8-climatizacion{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
@@ -3236,7 +3204,7 @@ body{
 }
 .descripcion-producto-9-climatizacion{
     position: absolute;
-    background-color: wheat;
+    color: black;
     border-radius: 0px 8px 0px 8px;
     width:25%;
     right:0%;
