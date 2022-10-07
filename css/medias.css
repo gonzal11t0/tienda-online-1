@@ -345,8 +345,8 @@
         top:60%;
     }
     .ofertas-index-productos:hover{
-        font-size:3rem;
-        color:#26510d;
+        font-size:1.4rem;
+        color:#2f670f;
     }
     .pagina-contenedor-index{
         top:65%;
@@ -800,6 +800,10 @@
     .descripcion-producto-1-4k{
         font-size:0.6rem;
         width:30%;
+    }
+    .producto-container-4k img{
+        height:40%;
+        left:-1%;
     }
     .foto-producto-1-smart-tv{
         height:40%;
@@ -2017,22 +2021,22 @@
         font-size:0.5rem;
         left:85%;
     }
-    #dropdownMenuButton2-xiaomi{
+    #dropdownMenuButton2-parlante-bluetooth{
         font-size:0.5rem;
     }
-    .dropdown-item-celular-xiaomi{
+    .dropdown-item-parlante-bluetooth{
         font-size:0.7rem;
     }
-    .button-checkout-celular-xiaomi{
+    .button-checkout-parlante-bluetooth{
         position: absolute;
         top:17%; 
         left:40%;
         font-size:0.7rem;
     }
-    .button-checkout-celular-xiaomi:hover{
+    .button-checkout-parlante-bluetooth:hover{
         font-size:0.7rem;
     }
-    .producto-container-celular-xiaomi{
+    .producto-container-parlante-bluetooth{
         top:65%;
         width:85%;
         left:3%;
@@ -2045,13 +2049,13 @@
         font-size:0.5rem;
         left: 0%;
     }
-    .descripcion-producto-1-celular-xiaomi{
+    .descripcion-producto-1-parlante-bluetooth{
         font-size:0.6rem;
         width:27%;
         right:2%;
         top:83%;
     }
-    .foto-producto-1-celular-xiaomi{
+    .foto-producto-1-parlante-bluetooth{
         height:40%;
         left:-15%;
     }
@@ -2060,168 +2064,168 @@
         width:200px;
         left:0%;
     }
-    .pagina-contenedor-celular-xiaomi-2{
+    .pagina-contenedor-parlante-bluetooth-2{
         top:120%;
         width:20%;
         left:47%;
     }
-    .button-add-celular-xiaomi{
+    .button-add-parlante-bluetooth{
         font-size:0.5rem;
         left: 0%;
     }
-    .descripcion-producto-2-celular-xiaomi{
+    .descripcion-producto-2-parlante-bluetooth{
         font-size:0.6rem;
         width:27%;
         right:2%;
         top:83%;
     }
-    .foto-producto-2-celular-xiaomi{
+    .foto-producto-2-parlante-bluetooth{
         height:40%;
-        left:-15%;
+        left:-10%;
     }
-    .pagina-contenedor-celular-xiaomi-3{
+    .pagina-contenedor-parlante-bluetooth-3{
         top:155%;
         width:20%;
         left:47%;
     }
-    .button-add-celular-xiaomi{
+    .button-add-parlante-bluetooth{
         font-size:0.5rem;
         left: 0%;
     }
-    .descripcion-producto-3-celular-xiaomi{
+    .descripcion-producto-3-parlante-bluetooth{
         font-size:0.6rem;
         width:27%;
         right:2%;
         top:83%;
     }
-    .foto-producto-3-celular-xiaomi{
+    .foto-producto-3-parlante-bluetooth{
         height:40%;
         left:-10%;
     }
-    .pagina-contenedor-celular-xiaomi-4{
+    .pagina-contenedor-parlante-bluetooth-4{
         top:200%;
         width:20%;
         left:47%;
     }
-    .button-add-celular-xiaomi{
+    .button-add-parlante-bluetooth{
         font-size:0.5rem;
         left: 0%;
     }
-    .descripcion-producto-4-celular-xiaomi{
+    .descripcion-producto-4-parlante-bluetooth{
         font-size:0.6rem;
         width:27%;
         right:2%;
         top:83%;
     }
-    .foto-producto-4-celular-xiaomi{
+    .foto-producto-4-parlante-bluetooth{
         height:40%;
         left:-15%;
     }
-    .pagina-contenedor-celular-xiaomi-5{
+    .pagina-contenedor-parlante-bluetooth-5{
         top:240%;
         width:20%;
         left:47%;
     }
-    .button-add-celular-xiaomi{
+    .button-add-parlante-bluetooth{
         font-size:0.5rem;
         left: 0%;
     }
-    .descripcion-producto-5-celular-xiaomi{
+    .descripcion-producto-5-parlante-bluetooth{
         font-size:0.6rem;
         width:27%;
         right:2%;
         top:83%;
     }
-    .ffoto-producto-5-celular-xiaomi{
+    .ffoto-producto-5-parlante-bluetooth{
         height:40%;
         left:-15%;
     }
-    .pagina-contenedor-celular-xiaomi-6{
+    .pagina-contenedor-parlante-bluetooth-6{
         top:280%;
         width:20%;
         left:47%;
     }
-    .button-add-celular-xiaomi{
+    .button-add-parlante-bluetooth{
         font-size:0.5rem;
         left: 0%;
     }
-    .descripcion-producto-6-celular-xiaomi{
+    .descripcion-producto-6-parlante-bluetooth{
         font-size:0.6rem;
         width:27%;
         right:2%;
         top:83%;
     }
-    .foto-producto-6-celular-xiaomi{
+    .foto-producto-6-parlante-bluetooth{
         height:40%;
         left:-5%;
     }
-    .pagina-contenedor-celular-xiaomi-7{
+    .pagina-contenedor-parlante-bluetooth-7{
         top:280%;
         width:20%;
         left:47%;
     }
-    .button-add-celular-xiaomi{
+    .button-add-parlante-bluetooth{
         font-size:0.5rem;
         left: 0%;
     }
-    .descripcion-producto-7-celular-xiaomi{
+    .descripcion-producto-7-parlante-bluetooth{
         font-size:0.6rem;
         width:27%;
         right:2%;
         top:83%;
     }
-    .foto-producto-7-celular-xiaomi{
+    .foto-producto-7-parlante-bluetooth{
         height:35%;
         left:-5%;
     }
-    .pagina-contenedor-celular-xiaomi-8{
+    .pagina-contenedor-parlante-bluetooth-8{
         top:280%;
         width:20%;
         left:47%;
     }
-    .button-add-celular-xiaomi{
+    .button-add-parlante-bluetooth{
         font-size:0.5rem;
         left: 0%;
     }
-    .descripcion-producto-8-celular-xiaomi{
+    .descripcion-producto-8-parlante-bluetooth{
         font-size:0.6rem;
         width:27%;
         right:2%;
         top:83%;
     }
-    .foto-producto-8-celular-xiaomi{
+    .foto-producto-8-parlante-bluetooth{
         height:40%;
         left:-5%;
     }
-    .pagina-contenedor-celular-xiaomi-9{
+    .pagina-contenedor-parlante-bluetooth-9{
         top:280%;
         width:20%;
         left:47%;
     }
-    .button-add-celular-xiaomi{
+    .button-add-parlante-bluetooth{
         font-size:0.5rem;
         left: 0%;
     }
-    .descripcion-producto-9-celular-xiaomi{
+    .descripcion-producto-9-parlante-bluetooth{
         font-size:0.6rem;
         width:27%;
         right:2%;
         top:83%;
     }
-    .foto-producto-9-celular-xiaomi{
+    .foto-producto-9-parlante-bluetooth{
         height:40%;
         left:-10%;
     }
-    .footer-celular-xiaomi{
+    .footer-parlante-bluetooth{
         position:absolute;
-        top:360%;
+        top:370%;
         width:100%;
         height:10%;
     }
-    .footer-celular-xiaomi:hover{
+    .footer-parlante-bluetooth:hover{
         background-color: rgb(57, 57, 107);
     }
-    .titulo-footer-celular-xiaomi{
+    .titulo-footer-parlante-bluetooth{
         font-size:0.8rem;
         text-align:center;
     }
@@ -2235,6 +2239,514 @@
         margin-top:20px;
     }
     .texto-2-footer-parlante-bluetooth{
+        position: absolute;
+        left:65%;
+        margin-top:10px;
+    }
+    .v-line-4k{
+        border-left: thick solid rgb(221, 132, 132);
+        height:77%;
+        left:46%;
+        position: absolute;
+    }
+    .v-line-4k-1{
+        border-left: thick solid rgb(221, 132, 132);
+        height:77%;
+        left:54%;
+        position: absolute;
+    }
+    /*lavarropas*/
+    .titulo-nombre-tienda{
+        font-size:1rem;
+    }
+    .titulo-index-como-comprar{
+        font-size:0.5rem;
+        left: 2%;
+    }
+    .titulo-index-ubicacion{
+        font-size:0.5rem;
+        left:35%;
+    }
+    .titulo-index-Facebook{
+        font-size:0.5rem;
+        left:60%;
+    }
+    .titulo-index-Instagram{
+        font-size:0.5rem;
+        left:85%;
+    }
+    #dropdownMenuButton2-lavarropa{
+        font-size:0.5rem;
+    }
+    .dropdown-item-lavarropa{
+        font-size:0.7rem;
+    }
+    .button-checkout-lavarropa{
+        position: absolute;
+        top:17%; 
+        left:40%;
+        font-size:0.7rem;
+    }
+    .button-checkout-lavarropa:hover{
+        font-size:0.7rem;
+    }
+    .producto-container-lavarropa{
+        top:65%;
+        width:85%;
+        left:3%;
+    }
+    .button-add{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .button-add:hover{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-1-lavarropa{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .foto-producto-1-lavarropa{
+        height:40%;
+        left:-15%;
+    }
+    .producto-container-index img{
+        position:relative;
+        width:200px;
+        left:0%;
+    }
+    .pagina-contenedor-lavarropa-2{
+        top:120%;
+        width:20%;
+        left:47%;
+    }
+    .button-add-lavarropa{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-2-lavarropa{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .foto-producto-2-lavarropa{
+        height:40%;
+        left:-10%;
+    }
+    .pagina-contenedor-lavarropa-3{
+        top:155%;
+        width:20%;
+        left:47%;
+    }
+    .button-add-lavarropa{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-3-lavarropa{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .foto-producto-3-lavarropa{
+        height:40%;
+        left:-10%;
+    }
+    .pagina-contenedor-lavarropa-4{
+        top:200%;
+        width:20%;
+        left:47%;
+    }
+    .button-add-lavarropa{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-4-lavarropa{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .foto-producto-4-lavarropa{
+        height:40%;
+        left:-15%;
+    }
+    .pagina-contenedor-lavarropa-5{
+        top:240%;
+        width:20%;
+        left:47%;
+    }
+    .button-add-lavarropa{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-5-lavarropa{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .ffoto-producto-5-lavarropa{
+        height:40%;
+        left:-15%;
+    }
+    .pagina-contenedor-lavarropa-6{
+        top:280%;
+        width:20%;
+        left:47%;
+    }
+    .button-add-lavarropa{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-6-lavarropa{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .foto-producto-6-lavarropa{
+        height:40%;
+        left:-5%;
+    }
+    .pagina-contenedor-lavarropa-7{
+        top:280%;
+        width:20%;
+        left:47%;
+    }
+    .button-add-lavarropa{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-7-lavarropa{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .foto-producto-7-lavarropa{
+        height:35%;
+        left:-5%;
+    }
+    .pagina-contenedor-lavarropa-8{
+        top:280%;
+        width:20%;
+        left:47%;
+    }
+    .button-add-lavarropa{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-8-lavarropa{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .foto-producto-8-lavarropa{
+        height:40%;
+        left:-5%;
+    }
+    .pagina-contenedor-lavarropa-9{
+        top:280%;
+        width:20%;
+        left:47%;
+    }
+    .button-add-lavarropa{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-9-lavarropa{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .foto-producto-9-lavarropa{
+        height:40%;
+        left:-10%;
+    }
+    .footer-lavarropa{
+        position:absolute;
+        top:380%;
+        width:100%;
+        height:10%;
+    }
+    .footer-lavarropa:hover{
+        background-color: rgb(57, 57, 107);
+    }
+    .titulo-footer-lavarropa{
+        font-size:0.8rem;
+        text-align:center;
+    }
+    .titulo-footer-lavarropa:first-letter{
+        font-size:1.3rem;
+        color: #008CBA;
+    }
+    .texto-1-footer-lavarropa{
+        position: absolute;
+        left:10%;
+        margin-top:20px;
+    }
+    .texto-2-footer-lavarropa{
+        position: absolute;
+        left:65%;
+        margin-top:10px;
+    }
+    .v-line-4k{
+        border-left: thick solid rgb(221, 132, 132);
+        height:77%;
+        left:46%;
+        position: absolute;
+    }
+    .v-line-4k-1{
+        border-left: thick solid rgb(221, 132, 132);
+        height:77%;
+        left:54%;
+        position: absolute;
+    }
+    /*climatizacion*/
+    .titulo-nombre-tienda{
+        font-size:1rem;
+    }
+    .titulo-index-como-comprar{
+        font-size:0.5rem;
+        left: 2%;
+    }
+    .titulo-index-ubicacion{
+        font-size:0.5rem;
+        left:35%;
+    }
+    .titulo-index-Facebook{
+        font-size:0.5rem;
+        left:60%;
+    }
+    .titulo-index-Instagram{
+        font-size:0.5rem;
+        left:85%;
+    }
+    #dropdownMenuButton2-climatizacion{
+        font-size:0.5rem;
+    }
+    .dropdown-item-climatizacion{
+        font-size:0.7rem;
+    }
+    .button-checkout-climatizacion{
+        position: absolute;
+        top:17%; 
+        left:40%;
+        font-size:0.7rem;
+    }
+    .button-checkout-climatizacion:hover{
+        font-size:0.7rem;
+    }
+    .producto-container-climatizacion{
+        top:65%;
+        width:85%;
+        left:3%;
+    }
+    .button-add{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .button-add:hover{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-1-climatizacion{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .foto-producto-1-climatizacion{
+        height:40%;
+        left:-15%;
+    }
+    .producto-container-index img{
+        position:relative;
+        width:200px;
+        left:0%;
+    }
+    .pagina-contenedor-climatizacion-2{
+        top:120%;
+        width:20%;
+        left:47%;
+    }
+    .button-add-climatizacion{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-2-climatizacion{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .foto-producto-2-climatizacion{
+        height:40%;
+        left:-10%;
+    }
+    .pagina-contenedor-climatizacion-3{
+        top:155%;
+        width:20%;
+        left:47%;
+    }
+    .button-add-climatizacion{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-3-climatizacion{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .foto-producto-3-climatizacion{
+        height:40%;
+        left:-10%;
+    }
+    .pagina-contenedor-climatizacion-4{
+        top:200%;
+        width:20%;
+        left:47%;
+    }
+    .button-add-climatizacion{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-4-climatizacion{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .foto-producto-4-climatizacion{
+        height:40%;
+        left:-15%;
+    }
+    .pagina-contenedor-climatizacion-5{
+        top:240%;
+        width:20%;
+        left:47%;
+    }
+    .button-add-climatizacion{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-5-climatizacion{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .ffoto-producto-5-climatizacion{
+        height:40%;
+        left:-15%;
+    }
+    .pagina-contenedor-climatizacion-6{
+        top:280%;
+        width:20%;
+        left:47%;
+    }
+    .button-add-climatizacion{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-6-climatizacion{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .foto-producto-6-climatizacion{
+        height:40%;
+        left:-5%;
+    }
+    .pagina-contenedor-climatizacion-7{
+        top:280%;
+        width:20%;
+        left:47%;
+    }
+    .button-add-climatizacion{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-7-climatizacion{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .foto-producto-7-climatizacion{
+        height:35%;
+        left:-5%;
+    }
+    .pagina-contenedor-climatizacion-8{
+        top:280%;
+        width:20%;
+        left:47%;
+    }
+    .button-add-climatizacion{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-8-climatizacion{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .foto-producto-8-climatizacion{
+        height:40%;
+        left:-5%;
+    }
+    .pagina-contenedor-climatizacion-9{
+        top:280%;
+        width:20%;
+        left:47%;
+    }
+    .button-add-climatizacion{
+        font-size:0.5rem;
+        left: 0%;
+    }
+    .descripcion-producto-9-climatizacion{
+        font-size:0.6rem;
+        width:27%;
+        right:2%;
+        top:83%;
+    }
+    .foto-producto-9-climatizacion{
+        height:40%;
+        left:-10%;
+    }
+    .footer-climatizacion{
+        position:absolute;
+        top:380%;
+        width:100%;
+        height:10%;
+    }
+    .footer-climatizacion:hover{
+        background-color: rgb(57, 57, 107);
+    }
+    .titulo-footer-climatizacion{
+        font-size:0.8rem;
+        text-align:center;
+    }
+    .titulo-footer-climatizacion:first-letter{
+        font-size:1.3rem;
+        color: #008CBA;
+    }
+    .texto-1-footer-climatizacion{
+        position: absolute;
+        left:10%;
+        margin-top:20px;
+    }
+    .texto-2-footer-climatizacion{
         position: absolute;
         left:65%;
         margin-top:10px;

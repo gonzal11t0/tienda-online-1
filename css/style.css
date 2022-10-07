@@ -435,6 +435,7 @@ body{
     justify-content: space-evenly;
     top:200%;
     width:20%;
+    height:40%;
     left:25%;
 }
 .producto-container-index{
@@ -527,6 +528,7 @@ body{
     justify-content: space-evenly;
     top:200%;
     width:20%;
+    height:40%;
     left:56%;
 }
 .producto-container-index-2{
@@ -565,7 +567,7 @@ body{
     justify-content: space-evenly;
     top:260%;
     width:20%;
-    height:42%;
+    height:40%;
     left:25%;
 }
 .producto-container-index-3{
@@ -604,6 +606,7 @@ body{
     justify-content: space-evenly;
     top:260%;
     width:20%;
+    height:40%;
     left:56%;
 }
 .producto-container-index-4{
@@ -642,6 +645,7 @@ body{
     justify-content: space-evenly;
     top:320%;
     width:20%;
+    height:40%;
     left:25%;
 }
 .producto-container-index-5{
@@ -680,6 +684,7 @@ body{
     justify-content: space-evenly;
     top:320%;
     width:20%;
+    height:40%;
     left:56%;
 }
 .producto-container-index-6{
