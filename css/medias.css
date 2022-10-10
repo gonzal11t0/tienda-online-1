@@ -97,15 +97,15 @@
     left: 2%;
 }
 .titulo-como-comprar-ubicacion{
-    font-size:0.5rem;
+    font-size:1rem;
     left:35%;
 }
 .titulo-como-comprar-Facebook{
-    font-size:0.5rem;
+    font-size:1rem;
     left:60%;
 }
 .titulo-como-comprar-Instagram{
-    font-size:0.5rem;
+    font-size:1rem;
     left:85%;
 }
 #dropdownMenuButton2{
@@ -170,19 +170,19 @@
     font-size:1rem;
 }
 .titulo-como-comprar-como-comprar{
-    font-size:0.5rem;
+    font-size:1rem;
     left: 2%;
 }
 .titulo-como-comprar-ubicacion{
-    font-size:0.5rem;
+    font-size:1rem;
     left:35%;
 }
 .titulo-como-comprar-Facebook{
-    font-size:0.5rem;
+    font-size:1rem;
     left:60%;
 }
 .titulo-como-comprar-Instagram{
-    font-size:0.5rem;
+    font-size:1rem;
     left:85%;
 }
 #dropdownMenuButton2{
@@ -2776,15 +2776,15 @@
     left:62%;
 }
 .titulo-como-comprar-ubicacion{
-    font-size:1rem;
+    font-size:1.5rem;
     left:35%;
 }
 .titulo-como-comprar-Facebook{
-    font-size:1rem;
+    font-size:1.5rem;
     left:60%;
 }
 .titulo-como-comprar-Instagram{
-    font-size:1rem;
+    font-size:5rem;
     left:50%;
 }
 #dropdownMenuButton2{
@@ -2796,8 +2796,8 @@
 .titulo-como-comprar{
     width:70%;
     font-size:1.2rem;
-    top:40%;
-    left:28%;
+    top:45%;
+    left:32%;
 }
 .titulo-como-comprar::first-letter{
     font-size:1.9rem;
@@ -2807,7 +2807,7 @@
 }
 .parrafo-como-comprar{
     font-size:1.2rem;
-    top:50%;
+    top:55%;
     width:80%;
 }
 .parrafo-como-comprar::first-letter{
@@ -2860,19 +2860,19 @@
     font-size:1rem;
 }
 .titulo-como-comprar-como-comprar{
-    font-size:0.5rem;
+    font-size:1rem;
     left: 2%;
 }
 .titulo-como-comprar-ubicacion{
-    font-size:0.5rem;
+    font-size:1rem;
     left:35%;
 }
 .titulo-como-comprar-Facebook{
-    font-size:0.5rem;
+    font-size:1rem;
     left:60%;
 }
 .titulo-como-comprar-Instagram{
-    font-size:0.5rem;
+    font-size:1rem;
     left:85%;
 }
 #dropdownMenuButton2{
@@ -2937,19 +2937,19 @@
     font-size:1rem;
 }
 .titulo-como-comprar-como-comprar{
-    font-size:0.5rem;
+    font-size:1rem;
     left: 2%;
 }
 .titulo-como-comprar-ubicacion{
-    font-size:0.5rem;
+    font-size:1rem;
     left:35%;
 }
 .titulo-como-comprar-Facebook{
-    font-size:0.5rem;
+    font-size:1rem;
     left:60%;
 }
 .titulo-como-comprar-Instagram{
-    font-size:0.5rem;
+    font-size:1rem;
     left:85%;
 }
 #dropdownMenuButton2{
@@ -5704,19 +5704,19 @@
         font-size:1rem;
     }
     .titulo-como-comprar-como-comprar{
-        font-size:0.5rem;
+        font-size:0.9rem;
         left: 2%;
     }
     .titulo-como-comprar-ubicacion{
-        font-size:0.5rem;
+        font-size:0.9rem;
         left:35%;
     }
     .titulo-como-comprar-Facebook{
-        font-size:0.5rem;
+        font-size:0.9rem;
         left:60%;
     }
     .titulo-como-comprar-Instagram{
-        font-size:0.5rem;
+        font-size:0.9rem;
         left:85%;
     }
     #dropdownMenuButton2{
@@ -16778,7 +16778,7 @@
         top:50%;
         width:80%;
         height:45%;
-        left:10%;
+        left:6%;
     }
     .titulo-donaciones-1{
         font-size:1rem;
@@ -16794,7 +16794,7 @@
         top:110%;
         width:80%;
         height:45%;
-        left:10%;
+        left:6%;
     }
     .titulo-donaciones-2{
         font-size:1rem;
@@ -16810,7 +16810,7 @@
         top:170%;
         width:80%;
         height:45%;
-        left:10%;
+        left:6%;
     }
     .titulo-donaciones-3{
         font-size:1rem;
@@ -16824,7 +16824,7 @@
     }
     .footer-nuestro-compromiso{
         position:absolute;
-        top:213%;
+        top:220%;
         width:100%;
         height:10%;
     }
@@ -16846,7 +16846,7 @@
     }
     .texto-2-footer-nuestro-compromiso{
         position: absolute;
-        left:65%;
+        left:58%;
         margin-top:10px;
     }
     .v-line-como-comprar{
