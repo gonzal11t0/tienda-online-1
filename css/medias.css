@@ -19618,6 +19618,12 @@
     .titulo-nombre-tienda{
         font-size:1rem;
     }
+    .icono-empresa-index{
+        top:2%;
+        right:60%;
+        width:11%;
+        height:6%;
+    }
     .titulo-index-como-comprar{
         font-size:0.5rem;
         left: 2%;

@@ -327,12 +327,12 @@ body{
     text-align:center;
     width:100%;
 }
-.icono-empresa{
+.icono-empresa-index{
     position:absolute;
-    width:4%;
-    height:5.2%;
-    left:0%;
-    top:1.5%;
+    top:1.7%;
+    left:0.8%;
+    width:5%;
+    height:6%;
 }
 .titulo-nombre-tienda{
     text-align:center;
