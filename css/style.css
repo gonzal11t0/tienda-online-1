@@ -411,7 +411,7 @@ body{
     position:absolute;
     font-size:2.5rem;
     left:40%;
-    top:170%;
+    top:150%;
     text-decoration:underline green 5px;
 }
 .ofertas-index-productos:hover{
@@ -421,21 +421,22 @@ body{
 .button-checkout-index{
     position:fixed;
     top:border solid 2px black;
-    top:618px; 
-    left:50px;
+    top:75%; 
+    left:15%;
+    font-size:1.1rem;
 }
 .button-checkout-index:hover{
     color: white;
-    font-size: 2rem;
+    font-size:1.6rem;
 }
 .pagina-contenedor-index{
     display: flex;
     position: absolute;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    top:200%;
-    width:20%;
-    height:40%;
+    top:160%;
+    width:23%;
+    height:48%;
     left:25%;
 }
 .producto-container-index{
@@ -526,9 +527,9 @@ body{
     position: absolute;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    top:200%;
-    width:20%;
-    height:40%;
+    top:160%;
+    width:23%;
+    height:48%;
     left:56%;
 }
 .producto-container-index-2{
@@ -565,9 +566,9 @@ body{
     position: absolute;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    top:260%;
-    width:20%;
-    height:40%;
+    top:210%;
+    width:23%;
+    height:48%;
     left:25%;
 }
 .producto-container-index-3{
@@ -604,9 +605,9 @@ body{
     position: absolute;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    top:260%;
-    width:20%;
-    height:40%;
+    top:210%;
+    width:23%;
+    height:48%;
     left:56%;
 }
 .producto-container-index-4{
@@ -643,9 +644,9 @@ body{
     position: absolute;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    top:320%;
-    width:20%;
-    height:40%;
+    top:260%;
+    width:23%;
+    height:48%;
     left:25%;
 }
 .producto-container-index-5{
@@ -682,9 +683,9 @@ body{
     position: absolute;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    top:320%;
-    width:20%;
-    height:40%;
+    top:260%;
+    width:23%;
+    height:48%;
     left:56%;
 }
 .producto-container-index-6{
@@ -731,7 +732,7 @@ body{
 }
 .footer-index{
     position:absolute;
-    top:380%;
+    top:310%;
     width:100%;
     height:20%;
     background-color: rgb(36, 45, 95);
