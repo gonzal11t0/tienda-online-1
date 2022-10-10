@@ -1,0 +1,3265 @@
+body{
+    margin: 0;
+    background-color: rgb(36, 45, 95);
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 255, 255);
+}
+/*como comprar*/
+.sub-menu-como-comprar{
+    background-color: rgb(36, 45, 95);
+    width:100%;
+    height:100px;
+    margin:0px;
+    margin-top:1px;
+}
+.sub-menu-como-comprar:hover{
+    background-color: rgb(54, 65, 125);
+    opacity: 0.7;
+}
+.titulo-como-comprar-como-comprar{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:3%;
+    margin-top:25px;
+}
+.titulo-como-comprar-ubicacion{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:25px;
+}
+.titulo-como-comprar-Facebook{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:65%;
+    margin-top:25px;
+}
+.titulo-como-comprar-Instagram{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:92%;
+    margin-top:25px;
+}
+.dropdown-como-comprar{
+    margin-left:0%;
+    margin-top:-0%;
+}
+#dropdownMenuButton2-como-comprar{
+    font-size:1rem;
+    background-color: rgba(23, 91, 127, 0.922);
+}
+.dropdown-item-como-comprar{
+    font-size:1.2rem;
+}
+.foto-como-comprar{
+    width:100%;
+}
+.titulo-como-comprar{
+    position: absolute;
+    top:550px;
+    width:40%;
+    right:20%;
+    font-family:'Poppins', sans-serif;
+    font-size:1.8rem;
+    text-decoration: underline;
+}
+.titulo-como-comprar::first-letter{
+    font-size:3rem;
+    color: #570505;
+}
+.titulo-como-comprar:hover{
+    font-size:2.5rem;
+}
+.parrafo-como-comprar{
+    position: absolute;
+    top:650px;
+    width:70%;
+    right:10%;
+    font-family:'Poppins', sans-serif;
+    font-size:1.8rem;
+}
+.parrafo-como-comprar:first-letter{
+    font-size:3.5rem;
+    color: #570505;
+}
+.parrafo-como-comprar:hover{
+    font-size:2.5rem;
+}
+.footer-como-comprar{
+    position:absolute;
+    top:150%;
+    width:100%;
+    height:20%;
+    background-color: rgb(36, 45, 95);
+}
+.footer-como-comprar:hover{
+    background-color: rgb(57, 57, 107);
+}
+.titulo-footer-como-comprar{
+    font-size:1.2rem;
+    text-align:center;
+    color:white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.titulo-footer-como-comprar:first-letter{
+    font-size:1.8rem;
+    color: #008CBA;
+}
+.texto-1-footer-como-comprar{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:20%;
+    margin-top:60px;
+}
+.texto-2-footer-como-comprar{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:70%;
+    margin-top:60px;
+}
+.v-line-como-comprar{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:46%;
+    position: absolute;
+}
+.v-line-como-comprar-1{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:54%;
+    position: absolute;
+}
+/*sucursales*/
+.sucursales{
+    display: flex;
+}
+#sucursal-1{
+    position: absolute;
+    left:25%;
+    top:250px;
+    width: 50%;
+}
+#sucursal-2{
+    position: absolute;
+    left:25%;
+    top:750px;
+    width: 50%;
+}
+#sucursal-3{
+    position: absolute;
+    left:25%;
+    top:1250px;
+    width:50%;
+}
+.footer-sucursales{
+    position:absolute;
+    top:210%;
+    width:100%;
+    height:20%;
+    background-color: rgb(36, 45, 95);
+}
+.footer-sucursales:hover{
+    background-color: rgb(57, 57, 107);
+}
+.titulo-footer-sucursales{
+    font-size:1.2rem;
+    text-align:center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+}
+.titulo-footer-sucursales:first-letter{
+    font-size:1.8rem;
+    color: #008CBA;
+}
+.texto-1-footer-sucursales{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:60px;
+}
+.texto-2-footer-sucursales{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:65%;
+    margin-top:60px;
+}
+/*nuestro compromiso*/
+.donaciones-1{
+    display: flex;
+    position: absolute;
+    top:40%;
+    left:6%;
+    margin-left:10px;
+    width:30%;
+    height:35%;
+    background:linear-gradient(#0f0f0f, #2a647c);
+    color: whitesmoke;
+    border-radius: 5px;
+}
+.titulo-donaciones-1{
+    width:100%;
+    font-family: 'Poppins', sans-serif;
+    font-size:1.2rem;
+    text-align:center;
+    text-decoration: underline 2px;
+}
+.titulo-donaciones-1:first-letter{
+    font-size:4rem;
+    color: aquamarine;
+}
+.titulo-donaciones-1:hover{
+    font-size:1.5rem;
+}
+.texto-donaciones-1{
+    position: absolute;
+    top:30%;
+    margin-left:12px;
+    font-size:1.3rem;
+}
+.donaciones-2{
+    display: flex;
+    position: absolute;
+    top:40%;
+    left:65%;
+    margin-left:10px;
+    width:30%;
+    height:35%;
+    background:linear-gradient(#0f0f0f, #2a647c);
+    color: whitesmoke;
+    border-radius: 5px;
+}
+.titulo-donaciones-2{
+    width:100%;
+    font-family: 'Poppins', sans-serif;
+    font-size:1.2rem;
+    text-align:center;
+    text-decoration: underline 2px;
+}
+.titulo-donaciones-2:first-letter{
+    font-size:4rem;
+    color: aquamarine;
+}
+.titulo-donaciones-2:hover{
+    font-size:1.5rem;
+}
+.texto-donaciones-2{
+    position: absolute;
+    top:30%;
+    margin-left:12px;
+    font-size:1.3rem;
+}
+.donaciones-3{
+    display: flex;
+    position: absolute;
+    top:80%;
+    left:36%;
+    margin-left:10px;
+    width:30%;
+    height:35%;
+    background:linear-gradient(#0f0f0f, #2a647c);
+    color: whitesmoke;
+    border-radius: 5px;
+}
+.titulo-donaciones-3{
+    width:100%;
+    font-family: 'Poppins', sans-serif;
+    font-size:1.2rem;
+    text-align:center;
+    text-decoration: underline 2px;
+}
+.titulo-donaciones-3:first-letter{
+    font-size:4rem;
+    color: aquamarine;
+}
+.titulo-donaciones-3:hover{
+    font-size:1.5rem;
+}
+.texto-donaciones-3{
+    position: absolute;
+    top:28%;
+    margin-left:12px;
+    font-size:1.3rem;
+}
+.footer-nuestro-compromiso{
+    position:absolute;
+    top:1000px;
+    width:100%;
+    height:20%;
+    background-color: rgb(36, 45, 95);
+}
+.footer-nuestro-compromiso:hover{
+    background-color: rgb(57, 57, 107);
+}
+.titulo-footer-nuestro-compromiso{
+    font-size:1.2rem;
+    text-align:center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+}
+.titulo-footer-nuestro-compromiso:first-letter{
+    font-size:1.8rem;
+    color: #008CBA;
+}
+.texto-1-footer-nuestro-compromiso{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:60px;
+}
+.texto-2-footer-nuestro-compromiso{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:70%;
+    margin-top:60px;
+}
+/*index*/
+.pagina-nav-index{
+    text-align:center;
+    width:100%;
+}
+.icono-empresa-index{
+    position:absolute;
+    top:1.7%;
+    left:0.8%;
+    width:5%;
+    height:6%;
+}
+.titulo-nombre-tienda{
+    text-align:center;
+    color:lightblue;
+    background:linear-gradient(rgb(5, 43, 255), rgb(54, 65, 125));
+}
+.titulo-nombre-tienda::first-letter{
+    font-size:2.5rem;
+    color:aquamarine;
+}
+.sub-menu-index{
+    background-color: rgb(36, 45, 95);
+    width:100%;
+    height:100px;
+    margin:0px;
+    margin-top:1px;
+}
+.sub-menu-index:hover{
+    background-color: rgb(54, 65, 125);
+    opacity: 0.7;;
+}
+.titulo-index-como-comprar{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:3%;
+    margin-top:25px;
+}
+.titulo-index-ubicacion{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:25px;
+}
+.titulo-index-Facebook{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:65%;
+    margin-top:25px;
+}
+.titulo-index-Instagram{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:90%;
+    margin-top:25px;
+}
+.dropdown-index{
+    margin-left:0px;
+    margin-top:-1px;
+}
+#dropdownMenuButton2-index{
+    font-size:1rem;
+    background-color: rgba(23, 91, 127, 0.922);
+}
+.dropdown-item-index{
+    font-size:1.2rem;
+    color: white;
+}
+#carouselExampleControls-index{
+    top:0px;
+    left:0%;
+    width:100%;
+    height:100%;
+}
+#carouselExampleIndicators{
+    top:100px;
+    left:25%;
+    width:50%;
+    height:100%;
+}
+.ofertas-index-productos{
+    display:flex;
+    position:absolute;
+    font-size:2.5rem;
+    left:40%;
+    top:150%;
+    text-decoration:underline green 5px;
+}
+.ofertas-index-productos:hover{
+    font-size:3rem;
+    color:#26510d;
+}
+.button-checkout-index{
+    position:fixed;
+    top:border solid 2px black;
+    top:75%; 
+    left:15%;
+    font-size:1.1rem;
+}
+.button-checkout-index:hover{
+    color: white;
+    font-size:1.6rem;
+}
+.pagina-contenedor-index{
+    display: flex;
+    position: absolute;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    top:160%;
+    width:23%;
+    height:48%;
+    left:25%;
+}
+.producto-container-index{
+    position: relative;
+    margin:15px;
+    padding: 2px 16px;
+    background-color: #b0b9ac;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius:30px 0px 30px 0px;
+}
+.producto-container-index:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background-color: rgb(111, 49, 117);
+}
+.oferta-producto-1-precio{
+    text-decoration:line-through;
+    font-size: 1.5rem;
+}
+.oferta-foto-producto-1-precio-oferta{
+    position:relative;
+    top:-5px;
+    font-size:1.9rem;
+}
+.producto-container-index h3{
+    margin-left:10px;
+}
+.producto-container-index img{
+    position:relative;
+    width:200px;
+    left:0%;
+}
+.descripcion-producto-1-ofertas-inicio{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:35%;
+    right:2%;
+    top:85%;
+    font-size:1rem
+}
+.descripcion-producto-2-ofertas-inicio{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:35%;
+    right:2%;
+    top:85%;
+    font-size:1rem
+}
+.descripcion-producto-3-ofertas-inicio{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:35%;
+    right:2%;
+    top:88%;
+    font-size:1rem
+}
+.descripcion-producto-4-ofertas-inicio{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:35%;
+    right:2%;
+    top:88%;
+    font-size:1rem
+}
+.descripcion-producto-5-ofertas-inicio{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:35%;
+    right:2%;
+    top:89%;
+    font-size:1rem
+}
+.descripcion-producto-6-ofertas-inicio{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:35%;
+    right:2%;
+    top:89%;
+    font-size:1rem
+}
+.pagina-contenedor-index-2{
+    display: flex;
+    position: absolute;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    top:160%;
+    width:23%;
+    height:48%;
+    left:56%;
+}
+.producto-container-index-2{
+    position: relative;
+    margin:15px;
+    padding: 2px 16px;
+    background-color: #b0b9ac;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius:30px 0px 30px 0px;
+}
+.producto-container-index-2:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background-color: rgb(111, 49, 117);
+}
+.producto-container-index-2 h3{
+    margin-left:10px;
+}
+.producto-container-index-2 img{
+    position:relative;
+    width:200px;
+    left:0%;
+}
+.oferta-foto-producto-2-precio{
+    text-decoration:line-through;
+    font-size: 1.5rem;
+}
+.oferta-foto-producto-2-precio-oferta{
+    position:relative;
+    top:-5px;
+    font-size:1.9rem;
+}
+.pagina-contenedor-index-3{
+    display: flex;
+    position: absolute;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    top:210%;
+    width:23%;
+    height:48%;
+    left:25%;
+}
+.producto-container-index-3{
+    position: relative;
+    margin:15px;
+    padding: 2px 16px;
+    background-color: #b0b9ac;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius:30px 0px 30px 0px;
+}
+.producto-container-index-3:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background-color: rgb(111, 49, 117);
+}
+.producto-container-index-3 h3{
+    margin-left:10px;
+}
+.producto-container-index-3 img{
+    position:relative;
+    width:200px;
+    left:0%;
+}
+.oferta-foto-producto-3-precio{
+    font-size: 1.5rem;
+}
+.oferta-foto-producto-3-precio-oferta{
+    position:relative;
+    top:-5px;
+    font-size:1.9rem;
+    color:teal;
+}
+.pagina-contenedor-index-4{
+    display: flex;
+    position: absolute;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    top:210%;
+    width:23%;
+    height:48%;
+    left:56%;
+}
+.producto-container-index-4{
+    position: relative;
+    margin:15px;
+    padding: 2px 16px;
+    background-color: #b0b9ac;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius:30px 0px 30px 0px;
+}
+.producto-container-index-4:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background-color: rgb(111, 49, 117);
+}
+.producto-container-index-4 h3{
+    margin-left:10px;
+}
+.producto-container-index-4 img{
+    position:relative;
+    width:200px;
+    left:0%;
+}
+.oferta-foto-producto-4-precio{
+    font-size: 1.5rem;
+}
+.oferta-foto-producto-4-precio-oferta{
+    position:relative;
+    top:-5px;
+    font-size:1.9rem;
+    color:teal;
+}
+.pagina-contenedor-index-5{
+    display: flex;
+    position: absolute;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    top:260%;
+    width:23%;
+    height:48%;
+    left:25%;
+}
+.producto-container-index-5{
+    position: relative;
+    margin:15px;
+    padding: 2px 16px;
+    background-color: #b0b9ac;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius:30px 0px 30px 0px;
+}
+.producto-container-index-5:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background-color: rgb(111, 49, 117);
+}
+.producto-container-index-5 h3{
+    margin-left:10px;
+}
+.producto-container-index-5 img{
+    position:relative;
+    width:200px;
+    left:0%;
+}
+.oferta-foto-producto-5-precio{
+    font-size: 1.5rem;
+    text-decoration: line-through;
+}
+.oferta-foto-producto-5-precio-oferta{
+    position:relative;
+    top:-5px;
+    font-size:1.9rem;
+}
+.pagina-contenedor-index-6{
+    display: flex;
+    position: absolute;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    top:260%;
+    width:23%;
+    height:48%;
+    left:56%;
+}
+.producto-container-index-6{
+    position: relative;
+    margin:15px;
+    padding: 2px 16px;
+    background-color: #b0b9ac;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius:30px 0px 30px 0px;
+}
+.producto-container-index-6:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background-color: rgb(111, 49, 117);
+}
+.producto-container-index-6 h3{
+    margin-left:10px;
+}
+.producto-container-index-6 img{
+    position:relative;
+    width:200px;
+    left:0%;
+}
+.oferta-foto-producto-6-precio{
+    font-size: 1.5rem;
+    text-decoration: line-through;
+}
+.oferta-foto-producto-6-precio-oferta{
+    position:relative;
+    top:-5px;
+    font-size:1.9rem;
+}
+.button-add-index{
+    position: absolute;
+    display: flex;
+    border:none;
+    text-align: center;
+    font-size:0.7em;
+    color: black;
+    border-radius:4px;
+    padding: 10px 20px;
+    transition-duration: 0.4s;
+    left:15px;
+    bottom:3px;
+}
+.footer-index{
+    position:absolute;
+    top:310%;
+    width:100%;
+    height:20%;
+    background-color: rgb(36, 45, 95);
+}
+.footer-index:hover{
+    background-color: rgb(57, 57, 107);
+}
+.titulo-footer-index{
+    font-size:1.2rem;
+    text-align:center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+}
+.titulo-footer-index:first-letter{
+    font-size:1.8rem;
+    color: #008CBA;
+}
+.texto-1-footer-index{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+    left:30%;
+    margin-top:60px;
+}
+.texto-2-footer-index{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+    left:65%;
+    margin-top:60px;
+}
+.v-line{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:46%;
+    position: absolute;
+}
+.v-line-1{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:54%;
+    position: absolute;
+}
+/*smart-tv*/
+.pagina-nav-smart-tv{
+    text-align: center;
+    width:100%;
+}
+.icono-empresa{
+    position:absolute;
+    width:4%;
+    height:5.2%;
+    left:0px;
+    top:1.5%;
+}
+.titulo-nombre-tienda{
+    text-align:center;
+    color:lightblue;
+    background:linear-gradient(#0f0f0f, #2a647c);
+    margin:15px;
+}
+.titulo-nombre-tienda::first-letter{
+    font-size:2.5rem;
+    color:aquamarine;
+}
+.sub-menu-smart-tv{
+    background-color: rgb(36, 45, 95);
+    width:100%;
+    height:100px;
+    margin:0px;
+    margin-top:-15px;
+}
+.sub-menu-smart-tv:hover{
+    background-color: rgb(54, 65, 125);
+    opacity: 0.7;
+}
+.titulo-smart-tv-como-comprar{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: #2B0000;
+    left:60px;
+    margin-top:25px;
+}
+.titulo-smart-tv-ubicacion{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:600px;
+    margin-top:25px;
+}
+.titulo-smart-tv-Facebook{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:1200px;
+    margin-top:25px;
+}
+.titulo-smart-tv-Instagram{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:1750px;
+    margin-top:25px;
+}
+.button-checkout-smart-tv {
+    position:fixed;
+    top:border solid 2px black;
+    top:260px; 
+    left:0px;
+    font-size:0.8rem;
+}
+.button-checkout-smart-tv:hover {
+    color: white;
+    font-size:0.9rem;
+}
+.dropdown-smart-tv{
+    margin-left:0px;
+    margin-top:-1px;
+}
+#dropdownMenuButton2-smart-tv{
+    font-size:1rem;
+    background-color: rgba(23, 91, 127, 0.922);
+}
+.dropdown-item-smart-tv{
+    font-size:1.2rem;
+    color: white;
+}
+.pagina-contenedor-smart-tv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.producto-container-smart-tv{
+    position: relative;
+    margin:15px;
+    width:25%;
+    left:22px;
+    padding: 2px 16px;
+    background-color: #b0b9ac;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius:30px 0px 30px 0px;
+}
+.producto-container-smart-tv:hover {
+    box-shadow: 0 8px 14px 0 rgba(0,0,0,0.2);
+    background-color: rgb(111, 49, 117);
+}
+.producto-container-smart-tv h3{
+    margin-left:10px;
+}
+.producto-container-smart-tv img{
+    width:200px;
+}
+.foto-producto-1-smart-tv{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-2-smart-tv{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-3-smart-tv{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-4-smart-tv{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-5-smart-tv{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-6-smart-tv{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-7-smart-tv{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-8-smart-tv{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-9-smart-tv{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.descripcion-producto-1-smart-tv{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:2%;
+    top:89%;
+    font-size:1rem
+}
+.descripcion-producto-2-smart-tv{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:2%;
+    top:89%;
+    font-size:1rem
+}
+.descripcion-producto-3-smart-tv{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:30%;
+    right: 5px;
+    top:250px;
+    font-size:1rem
+}
+.descripcion-producto-4-smart-tv{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:2%;
+    top:89%;
+    font-size:1rem
+}
+.descripcion-producto-5-smart-tv{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:2%;
+    top:89%;
+    font-size:1rem
+}
+.descripcion-producto-6-smart-tv{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:2%;
+    top:89%;
+    font-size:1rem
+}
+.descripcion-producto-7-smart-tv{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:2%;
+    top:89%;
+    font-size:1rem
+}
+.descripcion-producto-8-smart-tv{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:2%;
+    top:89%;
+    font-size:1rem
+}
+.descripcion-producto-9-smart-tv{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:2%;
+    top:89%;
+    font-size:1rem
+}
+.button-add{
+    position: absolute;
+    display: flex;
+    border:none;
+    text-align: center;
+    font-size:0.7em;
+    color: black;
+    border-radius:4px;
+    padding: 10px 20px;
+    transition-duration: 0.4s;
+    left:15px;
+    bottom:1px;
+}
+.button-add:hover{
+    background-color: #6ef321;
+    border: 1px solid black;
+    border-radius:9px;
+    font-size:1rem;
+}
+.footer-smart-tv{
+    position:absolute;
+    top:170%;
+    width:100%;
+    height:20%;
+    background-color: rgb(36, 45, 95);
+}
+.footer-smart-tv:hover{
+    background-color: rgb(57, 57, 107);
+}
+.titulo-footer-smart-tv{
+    font-size:1.2rem;
+    text-align:center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+}
+.titulo-footer-smart-tv:first-letter{
+    font-size:1.8rem;
+    color: #008CBA;
+}
+.texto-1-footer-smart-tv{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:60px;
+}
+.texto-2-footer-smart-tv{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:65%;
+    margin-top:60px;
+}
+.v-line-smart-tv{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:54%;
+    position: absolute;
+}
+.v-line-smart-tv-1{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:46%;
+    position: absolute;
+}
+/*4k*/
+.pagina-contenedor-4k{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.producto-container-4k{
+    position: relative;
+    margin:15px;
+    left:22px;
+    width:25%;
+    padding: 2px 16px;
+    background-color: #b0b9ac;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius:30px 0px 30px 0px;
+}
+.producto-container-4k:hover {
+    box-shadow: 0 8px 14px 0 rgba(0,0,0,0.2);
+    background-color: rgb(111, 49, 117);
+}
+.producto-container-4k h3{
+    margin-left:10px;
+}
+.producto-container-4k img{
+    width:200px;
+}
+.foto-producto-1-4k{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-2-4k{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-3-4k{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-4-4k{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-5-4k{
+    position:relative;
+    height:40%;
+    height:33%;
+    left:0%;
+}
+.foto-producto-6-4k{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-7-4k{
+    position:relative;
+    width:60%;
+    height:50%;
+    left:0%;
+}
+.foto-producto-8-4k{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-9-4k{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.descripcion-producto-1-4k{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:27%;
+    right:2%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-2-4k{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:27%;
+    right:2%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-3-4k{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:27%;
+    right:2%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-4-4k{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:27%;
+    right:2%;
+    top:82%;
+    font-size:1rem
+}
+.descripcion-producto-5-4k{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:27%;
+    right:2%;
+    top:82%;
+    font-size:1rem
+}
+.descripcion-producto-6-4k{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:27%;
+    right:2%;
+    top:88%;
+    font-size:1rem
+}
+.descripcion-producto-7-4k{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:27%;
+    right:2%;
+    top:88%;
+    font-size:1rem
+}
+.descripcion-producto-8-4k{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:27%;
+    right:2%;
+    top:88%;
+    font-size:1rem
+}
+.descripcion-producto-9-4k{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:27%;
+    right:2%;
+    top:90%;
+    font-size:1rem
+}
+.button-add{
+    position: absolute;
+    display: flex;
+    border:none;
+    text-align: center;
+    font-size:0.7em;
+    color: black;
+    border-radius:4px;
+    padding: 10px 20px;
+    transition-duration: 0.4s;
+    left:15px;
+    bottom:1px;
+}
+.button-add:hover{
+    background-color: #6ef321;
+    border: 1px solid black;
+    border-radius:9px;
+    font-size:1rem;
+}
+.footer-4k{
+    position:absolute;
+    top:150%;
+    width:100%;
+    height:20%;
+    background-color: rgb(36, 45, 95);
+}
+.footer-4k:hover{
+    background-color: rgb(57, 57, 107);
+}
+.titulo-footer-4k{
+    font-size:1.2rem;
+    text-align:center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+}
+.titulo-footer-4k:first-letter{
+    font-size:1.8rem;
+    color: #008CBA;
+}
+.texto-1-footer-4k{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:60px;
+}
+.texto-2-footer-4k{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:65%;
+    margin-top:60px;
+}
+.v-line-4k{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:54%;
+    position: absolute;
+}
+.v-line-4k-1{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:46%;
+    position: absolute;
+}
+/*monitores*/
+.pagina-nav-monitores{
+    text-align: center;
+    width:100%;
+}
+.icono-empresa{
+    position:absolute;
+    width:4%;
+    height:5.2%;
+    left:0px;
+    top:1.5%;
+}
+.titulo-nombre-tienda{
+    text-align:center;
+    color:lightblue;
+    background:linear-gradient(#0f0f0f, #2a647c);
+    margin:15px;
+}
+.titulo-nombre-tienda::first-letter{
+    font-size:2.5rem;
+    color:aquamarine;
+}
+.sub-menu-monitores{
+    background-color: rgb(36, 45, 95);
+    width:100%;
+    height:100px;
+    margin:0px;
+    margin-top:-15px;
+}
+.sub-menu-monitores:hover{
+    background-color: rgb(54, 65, 125);
+    opacity: 0.7;
+}
+.titulo-monitores-como-comprar{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:3%;
+    margin-top:25px;
+}
+.titulo-monitores-ubicacion{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:25px;
+}
+.titulo-monitores-Facebook{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:60%;
+    margin-top:25px;
+}
+.titulo-monitores-Instagram{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:92%;
+    margin-top:25px;
+}
+.button-checkout-monitores {
+    position:fixed;
+    top:border solid 2px black;
+    top:260px; 
+    left:0px;
+    font-size:0.8rem;
+}
+.button-checkout-monitores:hover {
+    color: white;
+    font-size:0.9rem;
+}
+.dropdown-monitores{
+    margin-left:0px;
+    margin-top:-1px;
+}
+#dropdownMenuButton2-monitores{
+    font-size:1rem;
+    background-color: rgba(23, 91, 127, 0.922);
+}
+.dropdown-item-monitores{
+    font-size:1.2rem;
+    color: white;
+}
+.pagina-contenedor-monitores{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.producto-container-monitores{
+    position: relative;
+    margin:15px;
+    left:2%;
+    width:25%;
+    padding: 2px 16px;
+    background-color: #b0b9ac;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius:30px 0px 30px 0px;
+}
+.producto-container-monitores:hover {
+    box-shadow: 0 8px 14px 0 rgba(0,0,0,0.2);
+    background-color: rgb(111, 49, 117);
+}
+.producto-container-monitores h3{
+    margin-left:10px;
+}
+.producto-container-monitores img{
+    width:200px;
+}
+.foto-producto-1-monitores{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-2-monitores{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-3-monitores{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-4-monitores{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-5-monitores{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-6-monitores{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-7-monitores{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-8-monitores{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-9-monitores{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.descripcion-producto-1-monitores{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:2%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-2-monitores{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:2%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-3-monitores{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:2%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-4-monitores{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:2%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-5-monitores{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:2%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-6-monitores{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:2%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-7-monitores{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:2%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-8-monitores{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:2%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-9-monitores{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:2%;
+    top:80%;
+    font-size:1rem
+}
+.footer-monitores{
+    position:absolute;
+    top:1290px;
+    width:100%;
+    height:20%;
+    background-color: rgb(36, 45, 95);
+}
+.footer-monitores:hover{
+    background-color: rgb(57, 57, 107);
+}
+.titulo-footer-monitores{
+    font-size:1.2rem;
+    text-align:center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+}
+.titulo-footer-monitores:first-letter{
+    font-size:1.8rem;
+    color: #008CBA;
+}
+.texto-1-footer-monitores{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:60px;
+}
+.texto-2-footer-monitores{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:65%;
+    margin-top:60px;
+}
+.v-line-samsung{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:54%;
+    position: absolute;
+}
+.v-line-monitores-1{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:46%;
+    position: absolute;
+}
+/*samsung celulares*/
+.pagina-nav-samsung{
+    text-align: center;
+    width:100%;
+}
+.icono-empresa{
+    position:absolute;
+    width:4%;
+    height:5.2%;
+    left:0px;
+    top:1.5%;
+}
+.titulo-nombre-tienda{
+    text-align:center;
+    color:lightblue;
+    background:linear-gradient(#0f0f0f, #2a647c);
+    margin:15px;
+}
+.titulo-nombre-tienda::first-letter{
+    font-size:2.5rem;
+    color:aquamarine;
+}
+.sub-menu-samsung{
+    background-color: rgb(36, 45, 95);
+    width:100%;
+    height:100px;
+    margin:0px;
+    margin-top:-15px;
+}
+.sub-menu-samsung:hover{
+    background-color: rgb(54, 65, 125);
+    opacity: 0.7;
+}
+.titulo-samsung-como-comprar{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:3%;
+    margin-top:25px;
+}
+.titulo-samsung-ubicacion{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:25px;
+}
+.titulo-samsung-Facebook{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:60%;
+    margin-top:25px;
+}
+.titulo-samsung-Instagram{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:92%;
+    margin-top:25px;
+}
+.button-checkout-samsung {
+    position:fixed;
+    top:border solid 2px black;
+    top:260px; 
+    left:0px;
+    font-size:0.8rem;
+}
+.button-checkout-samsung:hover {
+    color: white;
+    font-size:0.9rem;
+}
+.dropdown-samsung{
+    margin-left:0px;
+    margin-top:-1px;
+}
+#dropdownMenuButton2-samsung{
+    font-size:1rem;
+    background-color: rgba(23, 91, 127, 0.922);
+}
+.dropdown-item-samsung{
+    font-size:1.2rem;
+    color: white;
+}
+.pagina-contenedor-samsung{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.producto-container-samsung{
+    position: relative;
+    margin:15px;
+    left:2%;
+    width:25%;
+    padding: 2px 16px;
+    background-color: #b0b9ac;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius:30px 0px 30px 0px;
+}
+.producto-container-samsung:hover {
+    box-shadow: 0 8px 14px 0 rgba(0,0,0,0.2);
+    background-color: rgb(111, 49, 117);
+}
+.producto-container-samsung h3{
+    margin-left:10px;
+}
+.producto-container-samsung img{
+    width:200px;
+}
+.foto-producto-1-samsung{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-2-samsung{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-3-samsung{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-4-samsung{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-5-samsung{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-6-samsung{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-7-samsung{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-8-samsung{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-9-samsung{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.descripcion-producto-1-samsung{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:29%;
+    right:0%;
+    top:78%;
+    font-size:1rem
+}
+.descripcion-producto-2-samsung{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:29%;
+    right:0%;
+    top:78%;
+    font-size:1rem
+}
+.descripcion-producto-3-samsung{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:29%;
+    right:0%;
+    top:78%;
+    font-size:1rem
+}
+.descripcion-producto-4-samsung{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:29%;
+    right:0%;
+    top:78%;
+    font-size:1rem
+}
+.descripcion-producto-5-samsung{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:29%;
+    right:0%;
+    top:78%;
+    font-size:1rem
+}
+.descripcion-producto-6-samsung{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:29%;
+    right:0%;
+    top:78%;
+    font-size:1rem
+}
+.descripcion-producto-7-samsung{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:29%;
+    right:0%;
+    top:78%;
+    font-size:1rem
+}
+.descripcion-producto-8-samsung{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:29%;
+    right:0%;
+    top:78%;
+    font-size:1rem
+}
+.descripcion-producto-9-samsung{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:29%;
+    right:0%;
+    top:78%;
+    font-size:1rem
+}
+.footer-samsung{
+    position:absolute;
+    top:1290px;
+    width:100%;
+    height:20%;
+    background-color: rgb(36, 45, 95);
+}
+.footer-samsung:hover{
+    background-color: rgb(57, 57, 107);
+}
+.titulo-footer-samsung{
+    font-size:1.2rem;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+}
+.titulo-footer-samsung:first-letter{
+    font-size:1.8rem;
+    color: #008CBA;
+}
+.texto-1-footer-samsung{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:60px;
+}
+.texto-2-footer-samsung{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:62%;
+    margin-top:60px;
+}
+.v-line-samsung{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:54%;
+    position: absolute;
+}
+.v-line-samsung-1{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:46%;
+    position: absolute;
+}
+/*celular lg*/
+.pagina-nav-celular-lg{
+    text-align: center;
+    width:100%;
+}
+.icono-empresa{
+    position:absolute;
+    width:4%;
+    height:5.2%;
+    left:0px;
+    top:1.5%;
+}
+.titulo-nombre-tienda{
+    text-align:center;
+    color:lightblue;
+    background:linear-gradient(#0f0f0f, #2a647c);
+    margin:15px;
+}
+.titulo-nombre-tienda::first-letter{
+    font-size:2.5rem;
+    color:aquamarine;
+}
+.sub-menu-celular-lg{
+    background-color: rgb(36, 45, 95);
+    width:100%;
+    height:100px;
+    margin:0px;
+    margin-top:-15px;
+}
+.sub-menu-celular-lg:hover{
+    background-color: rgb(54, 65, 125);
+    opacity: 0.7;
+}
+.titulo-celular-lg-como-comprar{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:3%;
+    margin-top:25px;
+}
+.titulo-celular-lg-ubicacion{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:25px;
+}
+.titulo-celular-lg-Facebook{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:60%;
+    margin-top:25px;
+}
+.titulo-celular-lg-Instagram{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:92%;
+    margin-top:25px;
+}
+.button-checkout-celular-lg {
+    position:fixed;
+    top:border solid 2px black;
+    top:260px; 
+    left:0px;
+    font-size:0.8rem;
+}
+.button-checkout-celular-lg:hover {
+    color: white;
+    font-size:0.9rem;
+}
+.dropdown-celular-lg{
+    margin-left:0px;
+    margin-top:-1px;
+}
+#dropdownMenuButton2-celular-lg{
+    font-size:1rem;
+    background-color: rgba(23, 91, 127, 0.922);
+}
+.dropdown-item-celular-lg{
+    font-size:1.2rem;
+    color: white;
+}
+.pagina-contenedor-celular-lg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.producto-container-celular-lg{
+    position: relative;
+    margin:15px;
+    left: 22px;
+    width:25%;
+    padding: 2px 16px;
+    background-color: #b0b9ac;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius:30px 0px 30px 0px;
+}
+.producto-container-celular-lg:hover {
+    box-shadow: 0 8px 14px 0 rgba(0,0,0,0.2);
+    background-color: rgb(111, 49, 117);
+}
+.producto-container-celular-lg h3{
+    margin-left:10px;
+}
+.producto-container-celular-lg img{
+    width:200px;
+}
+.foto-producto-1-celular-lg{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-2-celular-lg{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-3-celular-lg{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-4-celular-lg{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-5-celular-lg{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-6-celular-lg{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-7-celular-lg{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-8-celular-lg{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-9-celular-lg{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.descripcion-producto-1-celular-lg{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-2-celular-lg{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-3-celular-lg{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-4-celular-lg{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-5-celular-lg{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-6-celular-lg{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-7-celular-lg{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-8-celular-lg{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-9-celular-lg{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.footer-celular-lg{
+    position:absolute;
+    top:130%;
+    width:100%;
+    height:20%;
+    background-color: rgb(36, 45, 95);
+}
+.footer-celular-lg:hover{
+    background-color: rgb(57, 57, 107);
+}
+.titulo-footer-celular-lg{
+    font-size:1.2rem;
+    text-align:center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+}
+.titulo-footer-celular-lg:first-letter{
+    font-size:1.8rem;
+    color: #008CBA;
+}
+.texto-1-footer-celular-lg{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:60px;
+}
+.texto-2-footer-celular-lg{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:65%;
+    margin-top:60px;
+}
+.v-line-celular-lg{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:54%;
+    position: absolute;
+}
+.v-line-celular-lg-1{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:46%;
+    position: absolute;
+}
+/*celular xiaomi*/
+.pagina-nav-celular-xiaomi{
+    text-align: center;
+    width:100%;
+}
+.icono-empresa{
+    position:absolute;
+    width:4%;
+    height:5.2%;
+    left:0px;
+    top:1.5%;
+}
+.titulo-nombre-tienda{
+    text-align:center;
+    color:lightblue;
+    background:linear-gradient(#0f0f0f, #2a647c);
+    margin:15px;
+}
+.titulo-nombre-tienda::first-letter{
+    font-size:2.5rem;
+    color:aquamarine;
+}
+.sub-menu-celular-xiaomi{
+    background-color: rgb(36, 45, 95);
+    width:100%;
+    height:100px;
+    margin:0px;
+    margin-top:-15px;
+}
+.sub-menu-celular-xiaomi:hover{
+    background-color: rgb(54, 65, 125);
+    opacity: 0.7;
+}
+.titulo-celular-xiaomi-como-comprar{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: #2B0000;
+    left:3%;
+    margin-top:25px;
+}
+.titulo-celular-xiaomi-ubicacion{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: #2B0000;
+    left:30%;
+    margin-top:25px;
+}
+.titulo-celular-xiaomi-Facebook{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: #2B0000;
+    left:60%;
+    margin-top:25px;
+}
+.titulo-celular-xiaomi-Instagram{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: #2B0000;
+    left:90%;
+    margin-top:25px;
+}
+.button-checkout-celular-xiaomi {
+    position:fixed;
+    top:border solid 2px black;
+    top:260px; 
+    left:0px;
+    font-size:0.8rem;
+}
+.button-checkout-celular-xiaomi:hover {
+    color: white;
+    font-size:0.9rem;
+}
+.dropdown-celular-xiaomi{
+    margin-left:0px;
+    margin-top:-1px;
+}
+#dropdownMenuButton2-celular-xiaomi{
+    font-size:1rem;
+    background-color: rgba(23, 91, 127, 0.922);
+}
+.dropdown-item-celular-xiaomi{
+    font-size:1.2rem;
+    color: white;
+}
+.pagina-contenedor-celular-xiaomi{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.producto-container-celular-xiaomi{
+    position: relative;
+    margin:15px;
+    left:2%;
+    width:25%;
+    padding: 2px 16px;
+    background-color: #b0b9ac;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius:30px 0px 30px 0px;
+}
+.producto-container-celular-xiaomi:hover {
+    box-shadow: 0 8px 14px 0 rgba(0,0,0,0.2);
+    background-color: rgb(111, 49, 117);
+}
+.producto-container-celular-xiaomi h3{
+    margin-left:10px;
+}
+.producto-container-celular-xiaomi img{
+    width:200px;
+}
+.foto-producto-1-celular-xiaomi{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-2-celular-xiaomi{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-3-celular-xiaomi{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-4-celular-xiaomi{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-5-celular-xiaomi{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-6-celular-xiaomi{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-7-celular-xiaomi{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-8-celular-xiaomi{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-9-celular-xiaomi{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.descripcion-producto-1-celular-xiaomi{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-2-celular-xiaomi{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-3-celular-xiaomi{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-4-celular-xiaomi{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-5-celular-xiaomi{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-6-celular-xiaomi{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-7-celular-xiaomi{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-8-celular-xiaomi{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-9-celular-xiaomi{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.footer-celular-xiaomi{
+    position:absolute;
+    top:150%;
+    width:100%;
+    height:20%;
+    background-color: rgb(36, 45, 95);
+}
+.footer-celular-xiaomi:hover{
+    background-color: rgb(57, 57, 107);
+}
+.titulo-footer-celular-xiaomi{
+    font-size:1.2rem;
+    text-align:center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+}
+.titulo-footer-celular-xiaomi:first-letter{
+    font-size:1.8rem;
+    color: #008CBA;
+}
+.texto-1-footer-celular-xiaomi{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:60px;
+}
+.texto-2-footer-celular-xiaomi{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:65%;
+    margin-top:60px;
+}
+.v-line-celular-xiaomi{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:54%;
+    position: absolute;
+}
+.v-line-celular-xiaomi-1{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:46%;
+    position: absolute;
+}
+/*parlante bluetooth*/
+.pagina-nav-parlante-bluetooth{
+    text-align: center;
+    width:100%;
+}
+.icono-empresa{
+    position:absolute;
+    width:4%;
+    height:5.2%;
+    left:0px;
+    top:1.5%;
+}
+.titulo-nombre-tienda{
+    text-align:center;
+    color:lightblue;
+    background:linear-gradient(#0f0f0f, #2a647c);
+    margin:15px;
+}
+.titulo-nombre-tienda::first-letter{
+    font-size:2.5rem;
+    color:aquamarine;
+}
+.sub-menu-parlante-bluetooth{
+    background-color: rgb(36, 45, 95);
+    width:100%;
+    height:100px;
+    margin:0px;
+    margin-top:-15px;
+}
+.sub-menu-parlante-bluetooth:hover{
+    background-color: rgb(54, 65, 125);
+    opacity: 0.7;
+}
+.titulo-parlante-bluetooth-como-comprar{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:3%;
+    margin-top:25px;
+}
+.titulo-parlante-bluetooth-ubicacion{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:25px;
+}
+.titulo-parlante-bluetooth-Facebook{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:60%;
+    margin-top:25px;
+}
+.titulo-parlante-bluetooth-Instagram{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:92%;
+    margin-top:25px;
+}
+.button-checkout-parlante-bluetooth {
+    position:fixed;
+    top:border solid 2px black;
+    top:260px; 
+    left:0px;
+    font-size:0.8rem;
+}
+.button-checkout-parlante-bluetooth:hover {
+    color: white;
+    font-size:0.9rem;
+}
+.dropdown-parlante-bluetooth{
+    margin-left:0px;
+    margin-top:-1px;
+}
+#dropdownMenuButton2-parlante-bluetooth{
+    font-size:1rem;
+    background-color: rgba(23, 91, 127, 0.922);
+}
+.dropdown-item-parlante-bluetooth{
+    font-size:1.2rem;
+    color: white;
+}
+.pagina-contenedor-parlante-bluetooth{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.producto-container-parlante-bluetooth{
+    position: relative;
+    margin:15px;
+    left:2%;
+    width:25%;
+    padding: 2px 16px;
+    background-color: #b0b9ac;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius:30px 0px 30px 0px;
+}
+.producto-container-parlante-bluetooth:hover {
+    box-shadow: 0 8px 14px 0 rgba(0,0,0,0.2);
+    background-color: rgb(111, 49, 117);
+}
+.producto-container-parlante-bluetooth h3{
+    margin-left:10px;
+}
+.producto-container-parlante-bluetooth img{
+    width:200px;
+}
+.foto-producto-1-parlante-bluetooth{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-2-parlante-bluetooth{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-3-parlante-bluetooth{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-4-parlante-bluetooth{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-5-parlante-bluetooth{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-6-parlante-bluetooth{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-7-parlante-bluetooth{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-8-parlante-bluetooth{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-9-parlante-bluetooth{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.descripcion-producto-1-parlante-bluetooth{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-2-parlante-bluetooth{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-3-parlante-bluetooth{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-4-parlante-bluetooth{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-5-parlante-bluetooth{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-6-parlante-bluetooth{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-7-parlante-bluetooth{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-8-parlante-bluetooth{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-9-parlante-bluetooth{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.footer-parlante-bluetooth{
+    position:absolute;
+    top:160%;
+    width:100%;
+    height:20%;
+    background-color: rgb(36, 45, 95);
+}
+.footer-parlante-bluetooth:hover{
+    background-color: rgb(57, 57, 107);
+}
+.titulo-footer-parlante-bluetooth{
+    font-size:1.2rem;
+    text-align:center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+}
+.titulo-footer-parlante-bluetooth:first-letter{
+    font-size:1.8rem;
+    color: #008CBA;
+}
+.texto-1-footer-parlante-bluetooth{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:60px;
+}
+.texto-2-footer-parlante-bluetooth{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:65%;
+    margin-top:60px;
+}
+.v-line-parlante-bluetooth{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:54%;
+    position: absolute;
+}
+.v-line-parlante-bluetooth-1{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:46%;
+    position: absolute;
+}
+/*lavarropa*/
+.pagina-nav-lavarropa{
+    text-align: center;
+    width:100%;
+}
+.icono-empresa{
+    position:absolute;
+    width:4%;
+    height:5.2%;
+    left:0px;
+    top:1.5%;
+}
+.titulo-nombre-tienda{
+    text-align:center;
+    color:lightblue;
+    background:linear-gradient(#0f0f0f, #2a647c);
+    margin:15px;
+}
+.titulo-nombre-tienda::first-letter{
+    font-size:2.5rem;
+    color:aquamarine;
+}
+.sub-menu-lavarropa{
+    background-color: rgb(36, 45, 95);
+    width:100%;
+    height:100px;
+    margin:0px;
+    margin-top:-15px;
+}
+.sub-menu-lavarropa:hover{
+    background-color: rgb(54, 65, 125);
+    opacity: 0.7;
+}
+.titulo-lavarropa-como-comprar{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:3%;
+    margin-top:25px;
+}
+.titulo-lavarropa-ubicacion{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:25px;
+}
+.titulo-lavarropa-Facebook{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:60%;
+    margin-top:25px;
+}
+.titulo-lavarropa-Instagram{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:90%;
+    margin-top:25px;
+}
+.button-checkout-lavarropa {
+    position:fixed;
+    top:border solid 2px black;
+    top:260px; 
+    left:0px;
+    font-size:0.8rem;
+}
+.button-checkout-lavarropa:hover {
+    color: white;
+    font-size:0.9rem;
+}
+.dropdown-lavarropa{
+    margin-left:0px;
+    margin-top:-1px;
+}
+#dropdownMenuButton2-lavarropa{
+    font-size:1rem;
+    background-color: rgba(23, 91, 127, 0.922);
+}
+.dropdown-item-lavarropa{
+    font-size:1.2rem;
+    color: white;
+}
+.pagina-contenedor-lavarropa{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.producto-container-lavarropa{
+    position: relative;
+    margin:15px;
+    left:2%;
+    width:25%;
+    padding: 2px 16px;
+    background-color: #b0b9ac;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius:30px 0px 30px 0px;
+}
+.producto-container-lavarropa:hover {
+    box-shadow: 0 8px 14px 0 rgba(0,0,0,0.2);
+    background-color: rgb(111, 49, 117);
+}
+.producto-container-lavarropa h3{
+    margin-left:10px;
+}
+.producto-container-lavarropa img{
+    width:200px;
+}
+.foto-producto-1-lavarropa{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-2-lavarropa{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-3-lavarropa{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-4-lavarropa{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-5-lavarropa{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-6-lavarropa{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-7-lavarropa{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-8-lavarropa{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-9-lavarropa{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.descripcion-producto-1-lavarropa{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-2-lavarropa{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-3-lavarropa{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-4-lavarropa{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-5-lavarropa{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-6-lavarropa{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-7-lavarropa{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-8-lavarropa{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-9-lavarropa{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.footer-lavarropa{
+    position:absolute;
+    top:180%;
+    width:100%;
+    height:20%;
+    background-color: rgb(36, 45, 95);
+}
+.footer-lavarropa:hover{
+    background-color: rgb(57, 57, 107);
+}
+.titulo-footer-lavarropa{
+    font-size:1.2rem;
+    text-align:center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+}
+.titulo-footer-lavarropa:first-letter{
+    font-size:1.8rem;
+    color: #008CBA;
+}
+.texto-1-footer-lavarropa{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:60px;
+}
+.texto-2-footer-lavarropa{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:65%;
+    margin-top:60px;
+}
+.v-line-lavarropa{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:54%;
+    position: absolute;
+}
+.v-line-lavarropa-1{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:46%;
+    position: absolute;
+}
+/*climatizacion*/
+.pagina-nav-climatizacion{
+    text-align: center;
+    width:100%;
+}
+.icono-empresa{
+    position:absolute;
+    width:4%;
+    height:5.2%;
+    left:0px;
+    top:1.5%;
+}
+.titulo-nombre-tienda{
+    text-align:center;
+    color:lightblue;
+    background:linear-gradient(#0f0f0f, #2a647c);
+    margin:15px;
+}
+.titulo-nombre-tienda::first-letter{
+    font-size:2.5rem;
+    color:aquamarine;
+}
+.sub-menu-climatizacion{
+    background-color: rgb(36, 45, 95);
+    width:100%;
+    height:100px;
+    margin:0px;
+    margin-top:-15px;
+}
+.sub-menu-climatizacion:hover{
+    background-color: rgb(54, 65, 125);
+    opacity: 0.7;
+}
+.titulo-climatizacion-como-comprar{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:3%;
+    margin-top:25px;
+}
+.titulo-climatizacion-ubicacion{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:25px;
+}
+.titulo-climatizacion-Facebook{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:60%;
+    margin-top:25px;
+}
+.titulo-climatizacion-Instagram{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    left:92%;
+    margin-top:25px;
+}
+.button-checkout-climatizacion {
+    position:fixed;
+    top:border solid 2px black;
+    top:260px; 
+    left:0px;
+    font-size:0.8rem;
+}
+.button-checkout-climatizacion:hover {
+    color: white;
+    font-size:0.9rem;
+}
+.dropdown-lavarropa{
+    margin-left:0px;
+    margin-top:-1px;
+}
+#dropdownMenuButton2-climatizacion{
+    font-size:1rem;
+    background-color: rgba(23, 91, 127, 0.922);
+}
+.dropdown-item-climatizacion{
+    font-size:1.2rem;
+    color: white;
+}
+.pagina-contenedor-climatizacion{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.producto-container-climatizacion{
+    position: relative;
+    margin:15px;
+    left:2%;
+    width:25%;
+    padding: 2px 16px;
+    background-color: #b0b9ac;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius:30px 0px 30px 0px;
+}
+.producto-container-climatizacion:hover {
+    box-shadow: 0 8px 14px 0 rgba(0,0,0,0.2);
+    background-color: rgb(111, 49, 117);
+}
+.producto-container-climatizacion h3{
+    margin-left:10px;
+}
+.producto-container-climatizacion img{
+    width:200px;
+}
+.foto-producto-1-climatizacion{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-2-climatizacion{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-3-climatizacion{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-4-climatizacion{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-5-climatizacion{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-6-climatizacion{
+    position:relative;
+    height:40%;
+    left:150px;
+}
+.foto-producto-7-climatizacion{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-8-climatizacion{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.foto-producto-9-climatizacion{
+    position:relative;
+    height:40%;
+    left:0%;
+}
+.descripcion-producto-1-climatizacion{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-2-climatizacion{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-3-climatizacion{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-4-climatizacion{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-5-climatizacion{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-6-climatizacion{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-7-climatizacion{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-8-climatizacion{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.descripcion-producto-9-climatizacion{
+    position: absolute;
+    color: black;
+    border-radius: 0px 8px 0px 8px;
+    width:25%;
+    right:0%;
+    top:80%;
+    font-size:1rem
+}
+.footer-climatizacion{
+    position:absolute;
+    top:180%;
+    width:100%;
+    height:20%;
+    background-color: rgb(36, 45, 95);
+}
+.footer-climatizacion:hover{
+    background-color: rgb(57, 57, 107);
+}
+.titulo-footer-climatizacion{
+    font-size:1.2rem;
+    text-align:center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+}
+.titulo-footer-climatizacion:first-letter{
+    font-size:1.8rem;
+    color: #008CBA;
+}
+.texto-1-footer-climatizacion{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:30%;
+    margin-top:60px;
+}
+.texto-2-footer-climatizacion{
+    position: absolute;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    left:65%;
+    margin-top:60px;
+}
+.v-line-climatizacion{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:54%;
+    position: absolute;
+}
+.v-line-climatizacion-1{
+    border-left: thick solid rgb(221, 132, 132);
+    height:77%;
+    left:46%;
+    position: absolute;
+}
