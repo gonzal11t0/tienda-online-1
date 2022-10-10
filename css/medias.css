@@ -335,8 +335,8 @@
     color:#2f670f;
 }
 .pagina-contenedor-index{
-    top:170%;
-    width:28%;
+    top:210%;
+    width:22%;
     height:43%;
     left:12%;
 }
@@ -357,7 +357,7 @@
     right:5%;
 }
 .pagina-contenedor-index-2{
-    top:170%;
+    top:210%;
     width:28%;
     height:40%;
     left:58%;
@@ -378,7 +378,7 @@
     right:5%;
 }
 .pagina-contenedor-index-3{
-    top:220%;
+    top:260%;
     width:28%;
     height:40%;
     left:12%;
@@ -399,7 +399,7 @@
     right:5%;
 }
 .pagina-contenedor-index-4{
-    top:220%;
+    top:260%;
     width:28%;
     height:40%;
     left:58%;
@@ -420,7 +420,7 @@
     right:5%;
 }
 .pagina-contenedor-index-5{
-    top:270%;
+    top:310%;
     width:28%;
     height:40%;
     left:12%;
@@ -441,7 +441,7 @@
     right:5%;
 }
 .pagina-contenedor-index-6{
-    top:270%;
+    top:310%;
     width:28%;
     height:40%;
     left:58%;
@@ -463,7 +463,7 @@
 }
 .footer-index{
     position:absolute;
-    top:310%;
+    top:350%;
     width:100%;
     height:10%;
 }
@@ -529,17 +529,17 @@
 .button-checkout-smart-tv{
     position:fixed;
     top:26%; 
-    left:1%;
-    font-size:1rem;
+    left:0%;
+    font-size:0.7rem;
 }
 .button-checkout-smart-tv:hover{
-    font-size:1rem;
+    font-size:0.7rem;
 }
 .producto-container-smart-tv{
     position: relative;
     top:65%;
-    width:32%;
-    left:8%;
+    width:26%;
+    left:4%;
 }
 .button-add{
     font-size:0.5rem;
@@ -550,7 +550,7 @@
     left: 0%;
 }
 .descripcion-producto-1-smart-tv{
-    font-size:0.6rem;
+    font-size:0.7rem;
     width:30%;
 }
 .foto-producto-1-smart-tv{
@@ -573,7 +573,7 @@
     left: 0%;
 }
 .descripcion-producto-2-smart-tv{
-    font-size:0.6rem;
+    font-size:0.7rem;
     width:30%;
 }
 .foto-producto-2-smart-tv{
@@ -608,7 +608,7 @@
     left: 0%;
 }
 .descripcion-producto-4-smart-tv{
-    font-size:0.6rem;
+    font-size:0.7rem;
     width:27%;
     right:4%;
 }
@@ -626,7 +626,7 @@
     left: 0%;
 }
 .descripcion-producto-5-smart-tv{
-    font-size:0.6rem;
+    font-size:0.7rem;
     width:25%;
     right:5%;
 }
@@ -644,7 +644,7 @@
     left: 0%;
 }
 .descripcion-producto-6-smart-tv{
-    font-size:0.6rem;
+    font-size:0.7rem;
     width:27%;
     right: 3%;
 }
@@ -662,7 +662,7 @@
     left: 0%;
 }
 .descripcion-producto-7-smart-tv{
-    font-size:0.6rem;
+    font-size:0.7rem;
     width:30%;
     top:87%;
     right:3%;
@@ -681,7 +681,7 @@
     left: 0%;
 }
 .descripcion-producto-8-smart-tv{
-    font-size:0.6rem;
+    font-size:0.7rem;
     width:25%;
     top:85%;
     right:5%;
@@ -700,7 +700,7 @@
     left: 0%;
 }
 .descripcion-producto-9-smart-tv{
-    font-size:0.6rem;
+    font-size:0.7rem;
     width:25%;
     top:85%;
     right:5%;
@@ -711,7 +711,7 @@
 }
 .footer-smart-tv{
     position:absolute;
-    top:238%;
+    top:155%;
     width:100%;
     height:10%;
 }
@@ -778,16 +778,16 @@
     position: absolute;
     top:17%; 
     left:40%;
-    font-size:1rem;
+    font-size:0.6rem;
 }
 .button-checkout-4k:hover{
-    font-size:1rem;
+    font-size:0.6rem;
 }
 .producto-container-4k{
     position: relative;
     top:65%;
-    width:34%;
-    left:8%;
+    width:26%;
+    left:4%;
 }
 .button-add{
     font-size:0.5rem;
@@ -1034,8 +1034,8 @@
 .producto-container-monitores{
     position: relative;
     top:65%;
-    width:35%;
-    left:8%;
+    width:25%;
+    left:5%;
 }
 .button-add{
     font-size:0.5rem;
@@ -1203,7 +1203,7 @@
 }
 .footer-monitores{
     position:absolute;
-    top:205%;
+    top:140%;
     width:100%;
     height:13%;
 }
@@ -1269,16 +1269,16 @@
 .button-checkout-samsung{
     position:fixed;
     top:30%; 
-    left:1%;
-    font-size:1rem;
+    left:0%;
+    font-size:0.9rem;
 }
 .button-checkout-samsung:hover{
     font-size:1rem;
 }
 .producto-container-samsung{
     top:65%;
-    width:34%;
-    left:3%;
+    width:24%;
+    left:4%;
 }
 .button-add{
     font-size:0.5rem;
@@ -1457,7 +1457,7 @@
 }
 .footer-samsung{
     position:absolute;
-    top:215%;
+    top:150%;
     width:100%;
     height:10%;
 }
@@ -1523,7 +1523,7 @@
 .button-checkout-celular-lg{
     position:fixed;
     top:30%; 
-    left:1%;
+    left:0%;
     font-size:0.6rem;
 }
 .button-checkout-celular-lg:hover{
@@ -1531,7 +1531,7 @@
 }
 .producto-container-celular-lg{
     top:65%;
-    width:33%;
+    width:25%;
     left:5%;
 }
 .button-add{
@@ -1711,7 +1711,7 @@
 }
 .footer-celular-lg{
     position:absolute;
-    top:180%;
+    top:120%;
     width:100%;
     height:10%;
 }
@@ -1777,20 +1777,20 @@
 .button-checkout-celular-xiaomi{
     position:fixed;
     top:30%; 
-    left:1%;
-    font-size:1rem;
+    left:0%;
+    font-size:0.9rem;
 }
 .button-checkout-celular-xiaomi:hover{
     font-size:1rem;
 }
 .producto-container-celular-xiaomi{
     top:65%;
-    width:35%;
-    left:3%;
+    width:25%;
+    left:5%;
 }
 .button-add{
     font-size:0.5rem;
-    left: 0%;
+    left:0%;
 }
 .button-add:hover{
     font-size:0.5rem;
@@ -1965,7 +1965,7 @@
 }
 .footer-celular-xiaomi{
     position:absolute;
-    top:223%;
+    top:150%;
     width:100%;
     height:10%;
 }
@@ -2039,8 +2039,8 @@
 }
 .producto-container-parlante-bluetooth{
     top:65%;
-    width:33%;
-    left:7%;
+    width:25%;
+    left:5%;
 }
 .button-add{
     font-size:0.5rem;
@@ -2219,7 +2219,7 @@
 }
 .footer-parlante-bluetooth{
     position:absolute;
-    top:220%;
+    top:150%;
     width:100%;
     height:10%;
 }
@@ -2293,8 +2293,8 @@
 }
 .producto-container-lavarropa{
     top:65%;
-    width:34%;
-    left:7%;
+    width:25%;
+    left:5%;
 }
 .button-add{
     font-size:0.5rem;
@@ -2473,7 +2473,7 @@
 }
 .footer-lavarropa{
     position:absolute;
-    top:250%;
+    top:175%;
     width:100%;
     height:10%;
 }
@@ -2547,8 +2547,8 @@
 }
 .producto-container-climatizacion{
     top:65%;
-    width:34%;
-    left:6%;
+    width:25%;
+    left:5%;
 }
 .button-add{
     font-size:0.5rem;
@@ -2727,7 +2727,7 @@
 }
 .footer-climatizacion{
     position:absolute;
-    top:250%;
+    top:175%;
     width:100%;
     height:10%;
 }
